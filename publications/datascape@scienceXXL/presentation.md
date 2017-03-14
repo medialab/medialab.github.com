@@ -12,7 +12,6 @@
   Ined, Paris, les 16 et 17 mars 2017
   </small>
 </p>
-
 ===
 
 La conception de **datascape** est une méthode de recherche qui propose de  
@@ -21,8 +20,8 @@ capable de **transformer à la volée et de façon réversible** les données
 pour en vérifier l'**intégrité** et en tirer de **nouvelles hypothèses et interprétations**.
 ===
 
-## une variété de tentatives
-<small>
+## une variété de datascapes
+
 
 - [E.A.T. datascape](http://jiminy.medialab.sciences-po.fr/eat_datascape), histoire de l'art, archives, 2012
 - [La fabrique de la loi](http://www.lafabriquedelaloi.fr/), sciences politiques, (open) data, 2014
@@ -31,7 +30,6 @@ pour en vérifier l'**intégrité** et en tirer de **nouvelles hypothèses et in
 - [TOFLIT18](https://toflit18.hypotheses.org/), histoire de l'économie, archives, prévu en 2017
 - [Insurance for building trust and enabling Big Data](http://www.medialab.sciences-po.fr/projets/insurance-big-data/), sociologie, corpus web, prévu en 2017
 
-</small>
 
 
 ===
@@ -71,84 +69,50 @@ Flux de commerce entre les entités A et le monde
 
 **Métadonnées** > **Monde** > **Pays** > **Bilatérale**
 
+Note:
 démo avec focus sur :
 - la documentation visuelle metadata + null values
 - la progressivité
 - la liste des partenaires (regroupement des entités hétérogènes)
-===
-
-## Le datascape RICardo 
-- 294138 flux
-- 1492 RICentities
-- 152 années
-- 120 monnaies
-- 7206 taux de change vers le £
-- 73 types de sources (919 volumes)
-
-stockées dans 9 fichiers csv versionnés dans git
 
 ===
 
-<!-- .slide: data-transition="none"-->
+A chaque Datascape sa **conception spécifique**
+- **modèle** : base de données
+- **forme** : sémiologie graphique
+- **quantification** : algorithmes
+- **exploration** : chemins interactifs
 
-## Visualisation de données
-
-![Une courbe cassée représentant les valeurs manquantes (valeurs fausses en 1887 & 1888)](./assets/0_null_oups.png)  
-
-⬆ oups !  <!-- .element: class="fragment" data-fragment-index="1" style="margin-left:400px"-->  
-
-===
-<!-- .slide: data-transition="none"-->
-## Vérifier et corriger les données
-
-![Une courbe cassée représentant les valeurs manquantes](./assets/0_null_fixed.png)  
-  
-\- corrigé -
-===
-![un commit sur la base vue sur github](./assets/github_data.png)
-
-===
-<!-- .slide: data-background-image="./assets/internetarchive_statisticalabstract.png"-->
-<a href="https://archive.org/stream/statisticalabstr2318grea#page/166/mode/2up" target="_blank" style="background:black; padding:20px">Statistical abstract, P. 166 @ Internet Archive</a>
-
-===
-### La chaîne de transformations
-volumes d'archive > images > excel > git(csv) > base de données > visualisation de données **> csv**<!-- .element: class="fragment" data-fragment-index="1"-->
-===
-Enjeux
-- ~~masse~~ complexité et hétérogénéité des données
-- hybrider les approches qualitative et quantitative
-- révéler les chaînes de transformation des données
-- favoriser l'émergence de motif par l'exploration
-- interdisciplinarité : SHS, ingénierie et design 
-- adoption : co-conception
+Lien outil-recherche pensé en s'inspirant des travaux de la Sociologie des Sciences et des Techniques.
 
 ===
 
-A chaque Datascape sa conception spécifique
-- modèles de données : base de données
-- forme des données : sémiologie graphique
-- quantification des données : algorithmes
-- chemins interactifs : exploration interactive
+Ateliers **interdisciplinaires** appelés *«data sprints»* 
 
-Choix guidés par les travaux en :
-- Sociologie des Sciences et des Techniques
-- Design de l'information et de l'interaction
-- Sciences des données
-
-===
-
-### Atelier de conception interdisciplinaire
-
-Ateliers appelés *«data sprints»* mêlant :
+co-conception mêlant :
 
 - Sciences Humaines et Sociales
 - Ingénierie logicielle
 - Sciences des données
 - Design de l'information et de l'interaction
 
-Traitant les enjeux de **contenu**, **implémentation** et de **design**  
-en même temps et au même endroit.
+Traitant les enjeux de **contenu**, **implémentation** et de **design** en même temps et au même endroit.
+===
+
+Exploiter complexité et hétérogénéité des données
+- **représenter** sans tromper
+- multiplier **les points de vue**
+- transformer, filtrer et agréger **à la demande**
+- raccourcir les cycles **calcul-interprétation**
+- favoriser l'**émergence de motifs** par l'exploration
+- mieux lire pour **mieux comprendre**
+
+===
+
+L'**abondance** et la **diversité** des données demandent des équipements spécifiques.  
+
+Construire des **corpus-instruments**, comme des interfaces d'exploration qui prennent en compte la **spécificité** des corpus et des questions de recherche.
+
 ===
 ## Science ouverte
 
@@ -190,4 +154,44 @@ Latour, Bruno, Pablo Jensen, Tommaso Venturini, Sébastian Grauwin, and Dominiqu
 <p class="smaller">
 Tukey, John Wilder. 1977. <em>Exploratory Data Analysis</em>. Addison-Wesley Publishing Company.
 </p>
+
+===
+
+## Le datascape RICardo 
+- 294138 flux
+- 1492 RICentities
+- 152 années
+- 120 monnaies
+- 7206 taux de change vers le £
+- 73 types de sources (919 volumes)
+
+stockées dans 9 fichiers csv versionnés dans git
+
+===
+
+<!-- .slide: data-transition="none"-->
+
+## Visualisation de données
+
+![Une courbe cassée représentant les valeurs manquantes (valeurs fausses en 1887 & 1888)](./assets/0_null_oups.png)  
+
+⬆ oups !  <!-- .element: class="fragment" data-fragment-index="1" style="margin-left:400px"-->  
+
+===
+<!-- .slide: data-transition="none"-->
+## Vérifier et corriger les données
+
+![Une courbe cassée représentant les valeurs manquantes](./assets/0_null_fixed.png)  
+  
+\- corrigé -
+===
+![un commit sur la base vue sur github](./assets/github_data.png)
+
+===
+<!-- .slide: data-background-image="./assets/internetarchive_statisticalabstract.png"-->
+<a href="https://archive.org/stream/statisticalabstr2318grea#page/166/mode/2up" target="_blank" style="background:black; padding:20px">Statistical abstract, P. 166 @ Internet Archive</a>
+
+===
+### La chaîne de transformations
+volumes d'archive > images > excel > git(csv) > base de données > visualisation de données **> csv**<!-- .element: class="fragment" data-fragment-index="1"-->
 
