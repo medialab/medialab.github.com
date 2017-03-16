@@ -137,7 +137,7 @@ L'**abondance** et la **diversité** des données demandent des équipements sp�
 
 Construire des **corpus-instruments**, comme des interfaces d'exploration qui prennent en compte la **spécificité** des corpus et des questions de recherche.
   
-Merci de votre attention.
+*Merci de votre attention*.
   
 [https://medialab.github.io/publications/datascape@scienceXXL](https://medialab.github.io/publications/datascape@scienceXXL)
 [http://ricardo.medialab.sciences-po.fr](http://ricardo.medialab.sciences-po.fr)
