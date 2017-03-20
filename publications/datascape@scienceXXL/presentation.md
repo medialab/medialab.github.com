@@ -5,9 +5,10 @@
   Paul Girard, Mathieu Jacomy & Christophe Leclercq<br>
   <img alt="Sciences Po, médialab" src="./assets/SciencesPO_MEDIALAB.png" style="margin: 0;">
 </p>
-<br>
-<p align="center">
- <small>Science XXL<br>
+
+<p align="center"> <small>
+[Abstract de cette communication](./datascape_abstract_scienceXXL.pdf)<br><br>
+Science XXL<br>
   Ce que l’abondance et la diversité des données font aux sciences sociales<br>
   Ined, Paris, les 16 et 17 mars 2017
   </small>
