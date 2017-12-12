@@ -112,10 +112,10 @@ At each Datascape, a **specific design**
 - **quantification** : algorithms
 - **exploration** : interactive paths
 
-Research instruments designed with the work of Science and Technology Studies in mind.
+Research instruments designed having Science and Technology Studies in mind.
 
 <p align="center">
-<small>(Latour 1993), (Bowker 2000)</small>
+<small>(Latour 1993), (Bowker 2000), (Bertin 1967)</small>
 </p>
 
 ===
@@ -155,7 +155,7 @@ A better **data reading experience** to foster **patterns emergence** through ex
 ### Just to raise questions?
 <center>
 Building visualization systems doesn't only input a tool.<!-- .element: class="fragment" data-fragment-index="1" -->  
-The sole process produce knowledge.<!-- .element: class="fragment" data-fragment-index="1" --></center>
+The design process produces knowledge.<!-- .element: class="fragment" data-fragment-index="1" --></center>
 ===
 ## Data reading-writing cycles
 <center>
@@ -192,57 +192,64 @@ Paul Girard
 </center>
 ===
 
-### bibliography
-<p class="smaller">
-Bertini, Enrico. 2017. *From Data Visualization to Interactive Data Analysis*. https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3
-</p>
-<p class="smaller">
+## bibliography
+
+###data visualization
+<small>Bertin J. 1967 (2010). *Semiology of Graphics: Diagrams, Networks, Maps*. Redlands, CA: ESRI Press</small>  
+
+<small>Bertini, Enrico. 2017. *From Data Visualization to Interactive Data Analysis*. https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3  </small>  
+
+<small>Gibson, J.G. 1986 *The Ecological Approach to Visual Perception*, London: Lawrence Erlbaum Associates.</small>  
+
+<small>Girard, Paul, et al. *manylines, a graph web publication platform with storytelling features*. https://archive.fosdem.org/2015/schedule/event/graph_manylines/. graph dev room, FOSDEM, Bruxelles, Belgique.
+</small>  
+
+<small>Tukey, John Wilder. 1977. <em>Exploratory Data Analysis</em>. Addison-Wesley Publishing Company.</small>  
+===
+### Sociology
+<small>
 Latour, Bruno, Pablo Jensen, Tommaso Venturini, Sébastian Grauwin, and Dominique Boullier. 2012. <em>‘“The Whole Is Always Smaller than Its Parts” - a Digital Test of Gabriel Tardes’ Monads’</em>. The British Journal of Sociology 63 (4): 590–615. doi:10.1111/j.1468-4446.2012.01428.x.
-</p>
-<p class="smaller">
-Gibson, J.G. 1986 *The Ecological Approach
-to Visual Perception*, London: Lawrence
-Erlbaum Associates.
-</p>
-<p class="smaller">
+</small>  
+
+<small>
 Latour, Bruno. 1993. <em>‘Le Topofil de Boa-Vista. La Référence Scientifique: Montage Photophilosophique’</em>. Raisons Pratiques 4: 187–216.
-</p>
-<p class="smaller">
+</small>  
+
+<small>
 Bowker, G. C. 2000. <em>« Biodiversity Datadiversity »</em>. Social Studies of Science 30 (5): 643‑83. doi:10.1177/030631200030005001.
-</p>
-<p class="smaller">
-Tukey, John Wilder. 1977. <em>Exploratory Data Analysis</em>. Addison-Wesley Publishing Company.
-</p>
+</small>
 ===
-### about EAT Datascape
-<p class="smaller">
+### EAT Datascape
+<small>
 Leclercq, Christophe. 2016. « Le projet E.A.T. Datascape ou ce que le design numérique peut faire à l’histoire sociale de l’art ». In à paraître. www.collecta.fr.
-</p>
-<p class="smaller">
+</small>  
+
+<small>
 Leclercq, Christophe, et Paul Girard. 2013. « The Experiments in Art and Technology Datascape ». In Collections électroniques de l’INHA. Actes de Colloques et Livres En Ligne de l’Institut National D’histoire de L’art. INHA. http://inha.revues.org/4926.
-</p>
+</small>
 
 ===
-### about RICardo
+### RICardo
 
-<p class="smaller">
+<small>
 Dedinger, Béatrice, et Paul Girard. 2017. <em>« Exploring trade globalization in the long run: The RICardo project »</em>. Historical Methods: A Journal of Quantitative and Interdisciplinary History 50 (1): 30‑48. doi:10.1080/01615440.2016.1220269.
 <br>
 [http://ricardo.medialab.sciences-po.fr](http://ricardo.medialab.sciences-po.fr).
-</p>
+</small>
 
-<p class="smaller">
+<small>
 Girard, Paul, Béatrice Dedinger, Donato Ricci, Benjamin Ooghe-Tabanou, Mathieu Jacomy, Guillaume Plique, and Grégory Tible. 2016. <em>‘RICardo Project : Exploring XIX Century International Trade’. In . Kraków, Poland.</em>
 <br>
 [http://medialab.github.io/ricardo](http://medialab.github.io/ricardo).  
 [http://dh2016.adho.org/abstracts/177](http://dh2016.adho.org/abstracts/177).
-</p>
-<p class="smaller">
+</small>  
+
+<small>
 Girard, Paul, et Guillaume Plique. 2016. « Des archives du commerce à des données quantifiables, une longue chaîne de transformation des données ». présenté à ANF MATE-SHS, Collecter et produire des données pour la recherche en SHS, Fréjus, novembre 16. http://medialab.github.io/toflit18/ANFmateSHS.
-</p>
+</small>
 
 ===
-#Bonus
+##Bonus about data versionning
 
 ===
 
