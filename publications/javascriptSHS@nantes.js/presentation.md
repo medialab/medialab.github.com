@@ -9,6 +9,7 @@
 ## des questions : qu'est ce qui fait société ?...
 ## des terrains : population, documents, archives...
 ## des méthodes d'enquêtes : entretiens, sondage, observations, analyse de données...
+
 ---
 
 2009.
@@ -20,6 +21,7 @@ médialab, un instrument numérique pour les SHS
 Bruno Latour, Janvier 2011
 
 ---
+
 # médialab
 ## des questions
 - Structure de l'espace public numérique
