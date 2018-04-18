@@ -1,4 +1,3 @@
-# hyphe-traph Github Pages
+# Le Javascript comme outil de recherche en SHS
 
-Mostly serving presentations concerning the Traph data structure.
-
+Présentation [reveal.js](https://revealjs.com/#/) à [NanteJS](http://nantesjs.org/) le 19/04/18.
