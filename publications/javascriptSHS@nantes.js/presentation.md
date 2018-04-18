@@ -64,12 +64,13 @@ web comme instrument
 
 ---
 
-ProfIEP : Flash + PyGexf
-ANTA : PHP Zend + Mysql + JQUERY?
-EAT Datascape : Jquery + d3.js + python Django + Mysql
-AIME v0 : domino? + PHP Yii + MYSQL 
-AIME v1 : baobab + node.js + neo4j
-Trust Lab v1 : Flash + Limesurvey (PHP/Mysql)
+2011 - [ProfIEP](jiminy.medialab.sciences-po.fr/labs/iep) : Flash + PyGexf
+2011 - ANTA : PHP Zend + Mysql + JQUERY + d3.js + protovis.js
+2011 - EAT Datascape : Jquery + d3.js + underscore.js + python Django + Mysql
+2012 - AIME v0 : maze + PHP Yii + MYSQL 
+2013 - AIME v1 : domino.js + PHP Yii + MYSQL 
+2015 - AIME V2 : domino.js + node.js + neo4j
+2015 - Trust Lab v1 : Flash + Limesurvey (PHP/Mysql)
 Trust Lab v2 : custom js ?? + Otree (Python Django Postgresql)
 Hyphe v0 :  Bootstrap/domino + python twisted/scrapy (asynchronie) + Mongo + custom Java Lucene 
 Hyphe v1 : passage à angular
