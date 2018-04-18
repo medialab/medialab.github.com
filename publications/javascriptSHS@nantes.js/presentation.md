@@ -10,7 +10,7 @@
 
 ---
 
-## Sciences Humaines et Sociales
+## sciences humaines et sociales
 
 - **questions** : qu'est ce qui fait société ?...
 - **terrains** : population, documents, archives...
