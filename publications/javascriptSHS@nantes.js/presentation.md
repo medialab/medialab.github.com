@@ -6,8 +6,6 @@
 <center>[@nantesjs](https://twitter.com/nantesjs) le 17/04/2018</center>  
 [![logo nantes js](img/nantesjs.png)<!-- .element: style="width: 150px;"-->](nantesjs.org)[![logo médialab](img/SciencesPO_MEDIALAB.png)<!-- .element: style="height: 150px;float:right;"-->](http://medialab.sciencespo.fr)
 
-
-
 ---
 
 ## sciences humaines et sociales
@@ -19,10 +17,13 @@
 ---
 
 ## 2009
-création du **médialab** par Bruno Latour  
+création du **médialab** par Bruno Latour
+
 un instrument numérique pour les SHS
 
 ---
+
+## 2011
 
 > "Google is nice, but we need something better!"
 
@@ -34,79 +35,170 @@ un instrument numérique pour les SHS
 
 ---
 
-## notre recherche thématique
-- Structure de l'espace public numérique
-- Rôles politiques et critiques des algorithmes
-- Controverses socio-techniques
-- Politiques publiques d'achat de l'art contemporain
-- Qui fabrique la loi en France ?
-- Histoire du commerce du XVIIIème et XIXème siècle
+> "Un labo qui utilise le web ce serait pas mieux?"
 
----
-## notre recherche méthodologique
-- World Wide Web comme terrain d'enquête
-- Exploration visuelle et modélisation de données sur mesure
-- Curation de corpus de données complexes
-- Analyse visuelle de réseaux
+Paul Girard
 
 ---
 
-## le web dans nos recherches
-- **un terrain** : analyser les traces de communication
-- **un instrument** : créer et distribuer des applications
+## Un labo qui utilise le web?
 
----
-#web comme terrain d'enquête
-## scraping
-artoo.js : jquery
-# web crawler - hyphe
-2013 - Hyphe v0.1 : python twisted/scrapy (asynchronie) + Mongo + custom Java Lucene 
-2015 - Hyphe v1 : custom index en python (après avoir testé neo4j)
-## collecte d'API
-gazouilloire, python donc on n'en parle pas #nantes.py
-## observations de terrains numériques - hyphe browser
-2017 - Hyphe Browser : Electron + react + redux
+1. Connaître le web pour pouvoir l'analyser
+2. Fournir des outils à des chercheurs
 
----
-# web comme média d'enquête
-## enquête collaborative - AIME
+Il faut qu'on maîtrise les technos web.
 
-2012 - AIME v0 : maze + PHP Yii + MYSQL 
-2013 - AIME v1 : domino.js + PHP Yii + MYSQL 
-2015 - AIME V2 : domino.js + node.js + neo4j
-
-## survey en ligne - trust lab
-
-2012 - [Trust Lab v1](https://github.com/medialab/mango_trust) : Flash + Limesurvey (PHP/Mysql)
-2015 - [Trust Lab v2](https://github.com/medialab/trustlab) : Flash porté en HTML5 par Adobe Animate (c) + custom js + Otree (Python Django Postgresql)
+Note: loop.
 
 ---
 
-# web comme instrument
-## Interface Homme Machine - ANTA, hyphe, hyphe browser...
-
-2011 - ANTA : PHP Zend + Mysql + JQUERY + d3.js + protovis.js
-2013 - Hyphe v0.1 :  Bootstrap/domino 
-2014 - Hyphe v0.2 : passage à angular
-
-## interfaces d'exploration visuelle de données - datascapes (toflit18, ricardo, EAT, la fabrique de la loi)
-
-2011 - [ProfIEP](jiminy.medialab.sciences-po.fr/labs/iep) : Flash + PyGexf
-2011 - EAT Datascape : Jquery + d3.js + underscore.js + python Django + Mysql
-2016 - RICardo : Angular + python Flask + sqlite
-2017 - TOLFLIT18 : React + redux + node.js + neo4j
-
+## Exemples
 
 ---
 
-historic
+## 1. Récuperer des données structurées sur le web
+
+* Question de santé publique: perception de la césarienne.
+* Qu'en disent les gens sur des forums comme `aufeminin.com` ou `doctissimo`.
 
 ---
-Hype driven development
-R&D driven development
+
+## Le scraping
+
+* Structurer des données à partir du WWW
+* Rétro-ingénierie du templating dans le DOM
+* Pleins d'embûches dans le web moderne: dynamisme, authentification etc.
 
 ---
 
-3 webs
-histoire des lib JS
-python -> js côté serveur
+## artoo.js
+
+* Plutôt que d'émuler les technos web, parasitons les technos web
+* Bookmarklet injectant des helpers de scraping dans les pages web
+* Création de bookmarklets custom pour les chercheurs
+
+Note: les gens utilisent leur propre navigateur avec leurs données de navigation perso. côté légal, pas de transmission de données
+
+---
+
+DEMO
+
+---
+
+## 2. Explorer et collecter les documents web
+
+* Comment s'organisent les communautés de développeur JS sur le web
+* Définissons une sous-partie du web et analysons la
+
+---
+
+## Le crawling
+
+1. Récupérons les pages web et extrayons leurs liens
+2. Demandons aux chercheurs quels liens suivre
+3. GoTo 1.
+4. Visualisons le réseau produit (ou le texte des documents)
+
+---
+
+## Hyphe
+
+* Un moteur de crawl
+* Un index des données
+* Une interface simple pour les contrôler
+* Pouvoir visualiser de gros réseaux dans un navigateur (sigma)
+
+---
+
+DEMO
+
+---
+
+## 3. Réaliser une enquête philosophique
+
+* Produire un rapport d'enquête
+* Convier d'autres chercheurs à contribuer à l'enquête
+
+Note: sur l'anthropologie
+
+---
+
+## Une plateforme philosophique collaborative
+
+1. Publier le rapport d'enquête dans un livre
+2. Publier la documentation hypertexte en ligne
+3. Proposer une plateforme de collaboration/modération
+4. Organiser des ateliers avec les co-enquêteurs
+
+---
+
+## An Inquiry Into Modes of Existence
+
+Adapter le livre au web et à l'hypertexte:
+
+1. Colonne 1: le livre
+2. Colonne 2: le glossaire
+3. Colonne 3: la documentation
+4. Colonne 4: les contributions
+
+---
+
+DEMO -> screen
+
+---
+
+Enjeux design -> interfaces interactives complexes, animations
+
+-> maze -> domino -> baobab -> react -> angular
+
+---
+
+## 4. Analyser des données complexes par l'exploration
+
+* Des chercheurs assemblent des données d'archive sur le commerce du XVIIIe siècle
+* Comment traiter et faire sens de cette masse de données complexe?
+
+---
+
+## L'analyse exploratoire de données
+
+* Numériser les données
+* Structurer les données
+* Nettoyer les données
+* Versionner les données
+* Agréger et visualiser les données dynamiquement
+
+---
+
+## Le datascape TOFLIT18
+
+* Une base de données
+* Un backend traitant les requêtes
+* Un client riche capable de produire des dataviz sur mesure
+* Une UX proposant des parcours d'exploration
+
+---
+
+Enjeux -> traitements -> node.js (universal JS) & graph/metrics/mnemonist/talisman TAL API etc. peu communes, beaucoup de données (pas de Big Data) decypher
+
+---
+
+## Historique des technos
+
+---
+
+## Evolution permanente
+
+Réflexivité
+
+R&D Open Source (liste de packages?)
+
+---
+
+* <strike>Hype-driven development</strike>
+* <strike>R&D-driven development</strike>
+* Personal-driven development
+
+---
+
+Merci
