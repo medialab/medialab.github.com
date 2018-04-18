@@ -53,7 +53,6 @@ un instrument numérique pour les SHS
 
 ## le web dans nos recherches
 - **un terrain** : analyser les traces de communication
-- **un média** : contacter des co-enquêteurs ou enquêtés
 - **un instrument** : créer et distribuer des applications
 
 ---
