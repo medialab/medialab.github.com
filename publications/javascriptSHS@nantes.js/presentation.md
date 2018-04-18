@@ -1,14 +1,15 @@
 
 
 
-# Javascript comme outil de recherche en SHS
+# Le JavaScript comme outil de recherche en SHS
 
 ---
 
-# Sciences Humaines et Sociales
-## des questions : qu'est ce qui fait société ?...
-## des terrains : population, documents, archives...
-## des méthodes d'enquêtes : entretiens, sondage, observations, analyse de données...
+## Sciences Humaines et Sociales
+
+* des questions : qu'est ce qui fait société ?...
+* des terrains : population, documents, archives...
+* des méthodes d'enquêtes : entretiens, sondage, observations, analyse de données...
 
 ---
 
@@ -17,8 +18,13 @@ médialab, un instrument numérique pour les SHS
 
 ---
 
-"Google is nice but we need something better!"
-Bruno Latour, Janvier 2011
+> "Google is nice, but we need something better!"
+
+<p style="text-align: right;">
+  <small>
+    Bruno Latour, Janvier 2011
+  </small>
+</p>
 
 ---
 
@@ -62,7 +68,7 @@ web comme média d'enquête
 
 web comme instrument
 - Interface Homme Machine - ANTA, hyphe, hyphe browser...
-- interfaces d'exploration visuelle de données - datascapes
+- interfaces d'exploration visuelle de données - datascapes (toflit18, ricardo, EAT, la fabrique de la loi)
 
 ---
 
