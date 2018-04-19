@@ -25,19 +25,9 @@ sociologie et instruments numériques de recherche
 
 ## 2011
 
-> "Google is nice, but we need something better!"
+!["Google is nice, but we need something better!"](./img/GoogleIsNice.png)
 
-<p style="text-align: right;">
-  <small>
-    [Bruno Latour, Janvier 2011, Indian Express](http://archive.indianexpress.com/news/-google-is-nice-but-we-need-something-better-/734368/)
-  </small>
-</p>
-
----
-
-## un laboratoire de SHS  <!-- .element: class="fragment" -->
-## Google  <!-- .element: class="fragment" -->
-## WAT ?  <!-- .element: class="fragment" -->
+[Bruno Latour, Janvier 2011, Indian Express](http://archive.indianexpress.com/news/-google-is-nice-but-we-need-something-better-/734368/)
 
 ---
 
@@ -132,9 +122,9 @@ Trouver des **sites web** de développeurs JS et les analyser
 * Un **navigateur web** sur-mesure
 
 *powered by :*  
-**2013 v0.1** - bootstrap, domino.js, python twisted + scrapy, Mongo, Java Lucene  
+**2013 v0.1** - bootstrap, domino.js, sigma.js, python twisted + scrapy, Mongo, Java Lucene  
 **2014 v0.2** - *~~bootstrap, domino.js~~* material, angular  
-**2015 v1** - *~~Java Lucene~~* hyphe-traph* 
+**2015 v1** - *~~Java Lucene~~* hyphe-traph\*, graphology
 
 \**custom index en python après avoir testé neo4j*
 
@@ -179,7 +169,7 @@ Une plateforme web de publication et de co-enquête :
 
 **2012 v0** - maze + PHP Yii + MYSQL   
 **2013 v1** - *~~maze~~* domino.js   
-**2015 v2** - *~~PHP Yii + MYSQL~~* node.js + neo4j
+**2015 v2** - *~~PHP Yii + MYSQL~~* talisman, decypher, node.js, neo4j
 
 ---
 <a href='http://modesofexistence.org' target='_blank'><p style="margin:-10px">![aime screencast](./img/aime_screencast.gif)<!-- .element: style="padding:0;margin:0;"--></p></a>
@@ -219,7 +209,7 @@ Quelle spécialisation **régionale** ?  **Par marchandise** ?
 * Une **UX** proposant des parcours d'exploration
 
 *powered by :*  
-**depuis 2016** - react, redux, node.js, neo4j
+**depuis 2016** - react, redux, sigma.js, talisman, node.js, neo4j
 
 ---
 
@@ -231,29 +221,29 @@ Quelle spécialisation **régionale** ?  **Par marchandise** ?
 ## Historique des technos
 
 ---
+## Enjeux JavaScript
 
-Enjeux -> traitements -> node.js (universal JS) & graph/metrics/mnemonist/talisman TAL API etc. peu communes, beaucoup de données (pas de Big Data) decypher
-
-Enjeux design -> interfaces interactives complexes, animations
-
--> maze -> domino -> baobab -> react -> angular
-
-
+- **Dualité client - serveur** : code universel grâce à node.js
+- **Hautes ambitions en UX/UI** : R&D et adoption d'application frameworks
+- **Ccience des données  en JS** : graphology, talisman, mnemonyst, decypher
 
 ---
 
 ## Evolution permanente
 
-Réflexivité
-
-R&D Open Source (liste de packages?)
-
+- Réflexivité : R&D piloté par les problèmes rencontrés
+- Open Source : consomacteur
 ---
-
-* <strike>Hype-driven development</strike>
-* <strike>R&D-driven development</strike>
-* Personal-driven development
+## ~~Stratégies~~
+   
+* Hype-driven development <!-- .element: class="fragment" -->
+* R&D-driven development <!-- .element: class="fragment" -->
+* Personal-driven development <!-- .element: class="fragment" -->
 
 ---
 
 Merci
+
+
+[http://github.com/medialab](http://github.com/medialab)  
+[http://github.com/yomguithereal](http://github.com/yomguithereal)
