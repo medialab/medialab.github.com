@@ -118,9 +118,9 @@ Trouver des **sites web** de développeurs JS et les analyser
 * Un **navigateur web** sur-mesure
 
 *powered by :*  
-**2013 v0.1** - bootstrap, domino.js, sigma.js, python twisted + scrapy, Mongo, Java Lucene  
+**2013 v0.1** - bootstrap, [domino.js](https://github.com/jacomyal/domino.js), [sigma.js](http://sigmajs.org/), python twisted + scrapy, Mongo, Java Lucene  
 **2014 v0.2** - *~~bootstrap, domino.js~~* material, angular  
-**2015 v1** - *~~Java Lucene~~* hyphe-traph\*, graphology
+**2015 v1** - *~~Java Lucene~~* [hyphe-traph](https://github.com/medialab/hyphe-traph)\*, [graphology](https://graphology.github.io/)
 
 \**custom index en python après avoir testé neo4j*
 
@@ -165,7 +165,7 @@ Quelle spécialisation **régionale** ?  **Par marchandise** ?
 * Une **UX** proposant des parcours d'exploration
 
 *powered by :*  
-**depuis 2016** - react, baobab, sigma.js, talisman, node.js, neo4j
+**depuis 2016** - react, [baobab](https://github.com/Yomguithereal/baobab), [sigma.js](http://sigmajs.org/), [talisman](http://yomguithereal.github.io/talisman/), node.js, neo4j
 
 ---
 
@@ -210,8 +210,8 @@ Une **anthropologie** des modernes ?
     - proposer des contributions
 
 **2012 v0** - maze + PHP Yii + MYSQL   
-**2013 v1** - *~~maze~~* domino.js   
-**2015 v2** - *~~PHP Yii + MYSQL~~* talisman, decypher, node.js, neo4j
+**2013 v1** - *~~maze~~* [domino.js](https://github.com/jacomyal/domino.js) 
+**2015 v2** - *~~PHP Yii + MYSQL~~* [talisman](http://yomguithereal.github.io/talisman/), [decypher](https://github.com/Yomguithereal/decypher), node.js, neo4j
 
 ---
 <a href='http://modesofexistence.org' target='_blank'><p style="margin:-10px">![aime screencast](./img/aime_screencast.gif)<!-- .element: style="padding:0;margin:0;"--></p></a>
@@ -234,7 +234,7 @@ Une **anthropologie** des modernes ?
 
 - **Dualité client - serveur** : code universel grâce à node.js
 - **Hautes ambitions en UX/UI** : R&D et adoption d'application frameworks
-- **Science des données  en JS** : graphology, talisman, mnemonist, decypher
+- **Science des données  en JS** : [graphology]([graphology](https://graphology.github.io/)), [talisman](http://yomguithereal.github.io/talisman/), [mnemonist](https://yomguithereal.github.io/mnemonist/), [decypher](https://github.com/Yomguithereal/decypher)
 
 ---
 
