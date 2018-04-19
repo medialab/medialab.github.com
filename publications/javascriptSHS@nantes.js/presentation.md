@@ -234,7 +234,8 @@ Une **anthropologie** des modernes ?
 
 - **Dualité client - serveur** : code universel grâce à node.js
 - **Hautes ambitions en UX/UI** : R&D et adoption d'application frameworks
-- **Science des données  en JS** : [graphology]([graphology](https://graphology.github.io/)), [talisman](http://yomguithereal.github.io/talisman/), [mnemonist](https://yomguithereal.github.io/mnemonist/), [decypher](https://github.com/Yomguithereal/decypher)
+- **Algorithmie et scalabilité**: besoin d'éxécuter efficacement nos calculs
+- **Science des données  en JS** : [graphology]([graphology](https://graphology.github.io/), [talisman](http://yomguithereal.github.io/talisman/), [mnemonist](https://yomguithereal.github.io/mnemonist/), [decypher](https://github.com/Yomguithereal/decypher)
 
 ---
 
