@@ -35,18 +35,18 @@ un instrument numérique pour les SHS
 
 ---
 
-> "Un labo qui utilise le web ce serait pas mieux?"
-
-Paul Girard
+## un laboratoire de SHS  <!-- .element: class="fragment" -->
+## Google  <!-- .element: class="fragment" -->
+## WAT ?  <!-- .element: class="fragment" -->
 
 ---
 
 ## Un labo qui utilise le web?
 
-1. Connaître le web pour pouvoir l'analyser
+1. **Connaître le web** pour pouvoir l'analyser
 2. Fournir des outils à des chercheurs
+3. Utiliser le web pour créer/diffuser des outils
 
-Il faut qu'on maîtrise les technos web.
 
 Note: loop.
 
