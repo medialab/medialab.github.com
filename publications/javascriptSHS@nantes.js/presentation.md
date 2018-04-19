@@ -215,17 +215,21 @@ Une **anthropologie** des modernes ?
 
 ---
 <a href='http://modesofexistence.org' target='_blank'><p style="margin:-10px">![aime screencast](./img/aime_screencast.gif)<!-- .element: style="padding:0;margin:0;"--></p></a>
+
 ---
 
 # Résumons
 
 ---
 
-![aime screencast](./img/client-tech-history.png)<!-- .element: style="padding:0;margin:0;width:70%;"-->
+![Client Tech History](./img/client-tech-history.png)<!-- .element: style="padding:0;margin:0;width:70%;"-->
+
 ---
 
-![aime screencast](./img/server-tech-history.png)<!-- .element: style="padding:0;margin:0;width:70%;"-->
+![Server Tech History](./img/server-tech-history.png)<!-- .element: style="padding:0;margin:0;width:70%;"-->
+
 ---
+
 ## Enjeux JavaScript
 
 - **Dualité client - serveur** : code universel grâce à node.js
@@ -238,7 +242,9 @@ Une **anthropologie** des modernes ?
 
 - Réflexivité : R&D piloté par les problèmes rencontrés
 - Open Source : consomacteur
+
 ---
+
 ## ~~Stratégies~~
    
 * Hype-driven development <!-- .element: class="fragment" -->
