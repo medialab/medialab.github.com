@@ -219,6 +219,18 @@ Une **anthropologie** des modernes ?
 
 ---
 
+## Et beaucoup d'autres logiciels...
+Notamment les fameux [@jacomyma's](http://twiter.com/jacomyma) tools.
+Une série d'outils backendless de manipulation de données:
+- [table2net](https://github.com/medialab/table2net) : créer un réseau à partir d'un csv
+- [I want Hue](https://github.com/medialab/iwanthue) : génération de palettes de couleurs
+- [sciencescape](https://github.com/medialab/sciencescape) : analyse de littérature scientifique
+- [graph recipes](https://github.com/medialab/graph-recipes) : IDE de scripts d'analyse de réseau
+- [csv rinse repeat](https://github.com/medialab/csv-rinse-repeat) : filtrage et visualisation de données csv
+
+
+---
+
 # Résumons
 
 ---
