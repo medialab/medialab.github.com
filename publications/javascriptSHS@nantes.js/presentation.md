@@ -17,9 +17,9 @@
 ---
 
 ## 2009
-création du **médialab** par Bruno Latour
+création du **[médialab](http://medialab.sciencespo.fr)** par Bruno Latour
 
-un instrument numérique pour les SHS
+sociologie et instruments numériques de recherche
 
 ---
 
@@ -41,112 +41,124 @@ un instrument numérique pour les SHS
 
 ---
 
-## Un labo qui utilise le web?
+## Un labo de SHS qui utilise le web?
 
 1. **Connaître le web** pour pouvoir l'analyser
-2. Fournir des outils à des chercheurs
-3. Utiliser le web pour créer/diffuser des outils
+2. **Produire des logiciels** pour des chercheurs
+3. **Utiliser le web** pour créer/diffuser des outils
 
+=> maîtriser les technologies du web<!-- .element: class="fragment" -->
 
 Note: loop.
 
 ---
 
 ## Exemples
+1. Récupérer et structurer des données de pages web
+2. Collectionner et analyser des pages web
+3. Réaliser une enquête philosophique collaborative
+4. Analyser des données complexes par l'exploration
 
 ---
 
 <h2>
-  <span class="red-number">I.</span><br>Récuperer des données structurées sur le web
+  <span class="red-number">I.</span><br>Récupérer et structurer<br> des données de pages web
 </h2>
 
 ---
 
-* Question de santé publique: perception de la césarienne.
-* Qu'en disent les gens sur des forums comme `aufeminin.com` ou `doctissimo`.
+## Question
+Politique de **santé publique** : naissances par **césarienne**
+
+## Méthode
+Qu'en disent les gens sur des forums comme **aufeminin.com** ou **doctissimo** ?
 
 ---
 
 ## Le scraping
 
-* Structurer des données à partir du WWW
-* Rétro-ingénierie du templating dans le DOM
-* Pleins d'embûches dans le web moderne: dynamisme, authentification etc.
+* **Structurer** des données à partir du WWW
+* Rétro-ingénierie du **templating DOM**
+* **Embûches** dans le web moderne: dynamisme, authentification etc.
 
 ---
 
 ## artoo.js
 
-* Plutôt que d'émuler les technos web, parasitons les technos web
-* Bookmarklet injectant des helpers de scraping dans les pages web
-* Création de bookmarklets custom pour les chercheurs
+* **Plutôt que d'émuler** les technos web, **parasitons** les technos web
+* **Bookmarklet** injectant des helpers de scraping dans les pages web
+* Création de bookmarklets **sur-mesure** pour les chercheurs
+* Le **navigateur web** comme plateforme de scraping
 
 Note: les gens utilisent leur propre navigateur avec leurs données de navigation perso. côté légal, pas de transmission de données
 
 ---
+<!-- .slide: data-background-image="./img/artoo.png"-->
 
-DEMO
-
+Note: &nbsp;Démo&nbsp;<!-- .element: style="background-color: #000000;text-align:center"-->
 ---
 
 <h2>
-  <span class="red-number">II.</span><br>Explorer et collecter les documents web
+  <span class="red-number">II.</span><br>Collectionner et analyser<br> des pages web
 </h2>
 
 ---
-
-* Comment s'organisent les communautés de développeur JS sur le web
-* Définissons une sous-partie du web et analysons la
+## Question
+Comment s'organisent les **communautés** de développeur JS ?
+## Méthode
+Trouver des **sites web** de développeurs JS et les analyser
 
 ---
 
 ## Le crawling
 
-1. Récupérons les pages web et extrayons leurs liens
-2. Demandons aux chercheurs quels liens suivre
-3. GoTo 1.
-4. Visualisons le réseau produit (ou le texte des documents)
+1. Récupérer des pages web et **extraire leurs liens**
+2. Demander au chercheur: **quels liens suivre ?**
+3. **GoTo 1**
+4. **Analyser le réseau** produit (ou le texte des documents)
 
 ---
 
 ## Hyphe
 
-* Un moteur de crawl
-* Un index des données
-* Une interface simple pour les contrôler
-* Pouvoir visualiser de gros réseaux dans un navigateur (sigma)
+* Un moteur de **crawl**
+* Un **index** des données
+* Une **interface** simple pour les contrôler
+* Une **visualisation de réseaux** dans un navigateur
+* Un **navigateur web** sur-mesure
 
 ---
 
-DEMO
+<!-- .slide: data-background-image="./img/hyphe_echojs.png"-->
 
 ---
 
 <h2>
-  <span class="red-number">III.</span><br>Réaliser une enquête philosophique
+  <span class="red-number">III.</span><br>Réaliser une enquête <br>philosophique collaborative
 </h2>
 
 ---
 
-* Produire un rapport d'enquête
-* Convier d'autres chercheurs à contribuer à l'enquête
-
-Note: sur l'anthropologie
+## Question
+Une **anthropologie** des modernes ?
+## Méthode
+* Produire un **rapport d'enquête**
+* Convier d'autres chercheurs à **contribuer** à l'enquête
 
 ---
 
-## Une plateforme philosophique collaborative
+## Une enquête collective
 
-1. Publier le rapport d'enquête dans un livre
-2. Publier la documentation hypertexte en ligne
-3. Proposer une plateforme de collaboration/modération
-4. Organiser des ateliers avec les co-enquêteurs
+1. Publier un rapport d'enquête dans **un livre**
+2. Publier la **documentation hypertexte** en ligne
+3. Ajouter un système de **collaboration/modération**
+4. Organiser des **ateliers avec les co-enquêteurs**
 
 ---
 
 ## An Inquiry Into Modes of Existence
 
-Adapter le livre au web et à l'hypertexte:
+Une plateforme web de publication et de co-enquête :
 
 1. Colonne 1: le livre
 2. Colonne 2: le glossaire
@@ -154,19 +166,11 @@ Adapter le livre au web et à l'hypertexte:
 4. Colonne 4: les contributions
 
 ---
-
-DEMO -> screen
-
----
-
-Enjeux design -> interfaces interactives complexes, animations
-
--> maze -> domino -> baobab -> react -> angular
-
+<p style="margin:-10px">![aime screencast](./img/aime_screencast.gif)<!-- .element: style="padding:0;margin:0;"--></p>
 ---
 
 <h2>
-  <span class="red-number">IV.</span><br>Analyser des données complexes par l'exploration
+  <span class="red-number">IV.</span><br>Analyser des données complexes<br> par l'exploration
 </h2>
 
 ---
@@ -196,6 +200,11 @@ Enjeux design -> interfaces interactives complexes, animations
 ---
 
 Enjeux -> traitements -> node.js (universal JS) & graph/metrics/mnemonist/talisman TAL API etc. peu communes, beaucoup de données (pas de Big Data) decypher
+
+Enjeux design -> interfaces interactives complexes, animations
+
+-> maze -> domino -> baobab -> react -> angular
+
 
 ---
 
