@@ -95,7 +95,8 @@ Note: les gens utilisent leur propre navigateur avec leurs données de navigatio
 ---
 <!-- .slide: data-background-image="./img/artoo.png"-->
 
-Note: &nbsp;Démo&nbsp;<!-- .element: style="background-color: #000000;text-align:center"-->
+<p>[https://medialab.github.io/artoo/](https://medialab.github.io/artoo/)</p><!-- .element: style="margin-top:60%; text-align:center;background:#000;padding:10px;" --></p>
+
 ---
 
 <h2>
@@ -130,6 +131,7 @@ Trouver des **sites web** de développeurs JS et les analyser
 ---
 
 <!-- .slide: data-background-image="./img/hyphe_echojs.png"-->
+<p>[http://hyphe.medialab.sciences-po.fr/demo](http://hyphe.medialab.sciences-po.fr/demo)</p><!-- .element: style="margin-top:60%; text-align:center;background:#000;padding:10px;" --></p>
 
 ---
 
@@ -166,7 +168,7 @@ Une plateforme web de publication et de co-enquête :
 4. Colonne 4: les contributions
 
 ---
-<p style="margin:-10px">![aime screencast](./img/aime_screencast.gif)<!-- .element: style="padding:0;margin:0;"--></p>
+<a href='http://modesofexistence.org' target='_blank'><p style="margin:-10px">![aime screencast](./img/aime_screencast.gif)<!-- .element: style="padding:0;margin:0;"--></p></a>
 ---
 
 <h2>
@@ -174,31 +176,39 @@ Une plateforme web de publication et de co-enquête :
 </h2>
 
 ---
+## Question
+Comment a évolué le **commerce de la France au XVIIIème siècle** ?
 
-* Des chercheurs assemblent des données d'archive sur le commerce du XVIIIe siècle
-* Comment traiter et faire sens de cette masse de données complexe?
+Quelle spécialisation **régionale** ?  **Par marchandise** ?
+
+## Méthode
+- Des chercheurs assemblent des **données d'archive** du XVIIIe siècle
+- Comment traiter et faire sens de cette masse de **données complexes**?
 
 ---
 
 ## L'analyse exploratoire de données
 
-* Numériser les données
-* Structurer les données
-* Nettoyer les données
-* Versionner les données
-* Agréger et visualiser les données dynamiquement
+* **Numériser** des données
+* **Structurer** des données
+* **Nettoyer** des données
+* **Versionner** des données
+* **Agréger et visualiser** des données **dynamiquement**
 
 ---
 
 ## Le datascape TOFLIT18
 
-* Une base de données
-* Un backend traitant les requêtes
-* Un client riche capable de produire des dataviz sur mesure
-* Une UX proposant des parcours d'exploration
+* Une **base** de données
+* Un **backend** traitant les requêtes
+* Un **client riche** capable de produire des **dataviz sur mesure**
+* Une **UX** proposant des parcours d'exploration
 
 ---
 
+<!-- .slide: data-background-image="./img/datascapes/toflit18.png"-->
+<p>[http://toflit18.medialab.sciences-po.fr](http://toflit18.medialab.sciences-po.fr)</p><!-- .element: style="margin-top:60%; text-align:center;background:#000;padding:10px;" --></p>
+---
 Enjeux -> traitements -> node.js (universal JS) & graph/metrics/mnemonist/talisman TAL API etc. peu communes, beaucoup de données (pas de Big Data) decypher
 
 Enjeux design -> interfaces interactives complexes, animations
