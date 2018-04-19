@@ -8,18 +8,18 @@
 
 ---
 
-## sciences humaines et sociales
+## Sciences Humaines et Hociales
 
-- **questions** : qu'est ce qui fait société ?...
-- **terrains** : population, documents, archives...
-- **méthodes** : entretiens, sondage, observations, analyse de données...
+- **Questions** : qu'est ce qui fait société ?...
+- **Terrains** : population, documents, archives...
+- **Méthodes** : entretiens, sondage, observations, analyse de données...
 
 ---
 
 ## 2009
-création du **[médialab](http://medialab.sciencespo.fr)** par Bruno Latour
+Création du **[médialab](http://medialab.sciencespo.fr)** par Bruno Latour
 
-sociologie et instruments numériques de recherche
+Sociologie et instruments numériques de recherche
 
 ---
 
