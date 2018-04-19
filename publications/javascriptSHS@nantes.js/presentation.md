@@ -8,7 +8,7 @@
 
 ---
 
-## Sciences Humaines et Hociales
+## Sciences Humaines et Sociales
 
 - **Questions** : qu'est ce qui fait société ?...
 - **Terrains** : population, documents, archives...
