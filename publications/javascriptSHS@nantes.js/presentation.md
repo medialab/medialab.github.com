@@ -160,12 +160,16 @@ Une **anthropologie** des modernes ?
 
 ## An Inquiry Into Modes of Existence
 
-Une plateforme web de publication et de co-enquête :
-
-1. Colonne 1: le livre
-2. Colonne 2: le glossaire
-3. Colonne 3: la documentation
-4. Colonne 4: les contributions
+* **Structurer** les contenus d'un **livre** et ses **annotations**
+* Structurer **glossaire** et **documentation**
+* Stocker dans une **base de données**
+* Servir par une **API**
+* Un **client riche** permettant de : 
+    - lire le livre, proposer les annotations
+    - lire le glossaire, proposer les passages citant
+    - lire la documentation, proposer les passages citant
+    - créer des annotations
+    - proposer des contributions
 
 **2012 v0** - maze + PHP Yii + MYSQL   
 **2013 v1** - *~~maze~~* domino.js   
@@ -209,7 +213,7 @@ Quelle spécialisation **régionale** ?  **Par marchandise** ?
 * Une **UX** proposant des parcours d'exploration
 
 *powered by :*  
-**depuis 2016** - react, redux, sigma.js, talisman, node.js, neo4j
+**depuis 2016** - react, baobab, sigma.js, talisman, node.js, neo4j
 
 ---
 
@@ -217,15 +221,20 @@ Quelle spécialisation **régionale** ?  **Par marchandise** ?
 <p>[http://toflit18.medialab.sciences-po.fr](http://toflit18.medialab.sciences-po.fr)</p><!-- .element: style="margin-top:60%; text-align:center;background:#000;padding:10px;" --></p>
 ---
 
+# Résumons
 
-## Historique des technos
+---
 
+![aime screencast](./img/client-tech-history.png)<!-- .element: style="padding:0;margin:0;width:70%;"-->
+---
+
+![aime screencast](./img/server-tech-history.png)<!-- .element: style="padding:0;margin:0;width:70%;"-->
 ---
 ## Enjeux JavaScript
 
 - **Dualité client - serveur** : code universel grâce à node.js
 - **Hautes ambitions en UX/UI** : R&D et adoption d'application frameworks
-- **Ccience des données  en JS** : graphology, talisman, mnemonyst, decypher
+- **Science des données  en JS** : graphology, talisman, mnemonist, decypher
 
 ---
 
