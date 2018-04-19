@@ -44,10 +44,6 @@ Note: loop.
 ---
 
 ## Exemples
-1. Récupérer et structurer des données de pages web
-2. Collectionner et analyser des pages web
-3. Réaliser une enquête philosophique collaborative
-4. Analyser des données complexes par l'exploration
 
 ---
 
