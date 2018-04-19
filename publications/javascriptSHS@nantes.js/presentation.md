@@ -90,6 +90,9 @@ Qu'en disent les gens sur des forums comme **aufeminin.com** ou **doctissimo** ?
 * Création de bookmarklets **sur-mesure** pour les chercheurs
 * Le **navigateur web** comme plateforme de scraping
 
+*powered by :*  
+**depuis 2014** - JQuery
+
 Note: les gens utilisent leur propre navigateur avec leurs données de navigation perso. côté légal, pas de transmission de données
 
 ---
@@ -127,6 +130,13 @@ Trouver des **sites web** de développeurs JS et les analyser
 * Une **interface** simple pour les contrôler
 * Une **visualisation de réseaux** dans un navigateur
 * Un **navigateur web** sur-mesure
+
+*powered by :*  
+**2013 v0.1** - bootstrap, domino.js, python twisted + scrapy, Mongo, Java Lucene  
+**2014 v0.2** - *~~bootstrap, domino.js~~* material, angular  
+**2015 v1** - *~~Java Lucene~~* hyphe-traph* 
+
+\**custom index en python après avoir testé neo4j*
 
 ---
 
@@ -167,6 +177,10 @@ Une plateforme web de publication et de co-enquête :
 3. Colonne 3: la documentation
 4. Colonne 4: les contributions
 
+**2012 v0** - maze + PHP Yii + MYSQL   
+**2013 v1** - *~~maze~~* domino.js   
+**2015 v2** - *~~PHP Yii + MYSQL~~* node.js + neo4j
+
 ---
 <a href='http://modesofexistence.org' target='_blank'><p style="margin:-10px">![aime screencast](./img/aime_screencast.gif)<!-- .element: style="padding:0;margin:0;"--></p></a>
 ---
@@ -204,11 +218,20 @@ Quelle spécialisation **régionale** ?  **Par marchandise** ?
 * Un **client riche** capable de produire des **dataviz sur mesure**
 * Une **UX** proposant des parcours d'exploration
 
+*powered by :*  
+**depuis 2016** - react, redux, node.js, neo4j
+
 ---
 
 <!-- .slide: data-background-image="./img/datascapes/toflit18.png"-->
 <p>[http://toflit18.medialab.sciences-po.fr](http://toflit18.medialab.sciences-po.fr)</p><!-- .element: style="margin-top:60%; text-align:center;background:#000;padding:10px;" --></p>
 ---
+
+
+## Historique des technos
+
+---
+
 Enjeux -> traitements -> node.js (universal JS) & graph/metrics/mnemonist/talisman TAL API etc. peu communes, beaucoup de données (pas de Big Data) decypher
 
 Enjeux design -> interfaces interactives complexes, animations
@@ -216,9 +239,6 @@ Enjeux design -> interfaces interactives complexes, animations
 -> maze -> domino -> baobab -> react -> angular
 
 
----
-
-## Historique des technos
 
 ---
 
