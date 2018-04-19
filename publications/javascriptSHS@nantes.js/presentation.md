@@ -210,7 +210,7 @@ Une **anthropologie** des modernes ?
     - proposer des contributions
 
 **2012 v0** - maze + PHP Yii + MYSQL   
-**2013 v1** - *~~maze~~* [domino.js](https://github.com/jacomyal/domino.js) 
+**2013 v1** - *~~maze~~* [domino.js](https://github.com/jacomyal/domino.js)  
 **2015 v2** - *~~PHP Yii + MYSQL~~* [talisman](http://yomguithereal.github.io/talisman/), [decypher](https://github.com/Yomguithereal/decypher), node.js, neo4j
 
 ---
