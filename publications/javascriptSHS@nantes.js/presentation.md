@@ -120,7 +120,8 @@ Trouver des **sites web** de développeurs JS et les analyser
 *powered by :*  
 **2013 v0.1** - bootstrap, [domino.js](https://github.com/jacomyal/domino.js), [sigma.js](http://sigmajs.org/), python twisted + scrapy, Mongo, Java Lucene  
 **2014 v0.2** - *~~bootstrap, domino.js~~* material, angular  
-**2015 v1** - *~~Java Lucene~~* [hyphe-traph](https://github.com/medialab/hyphe-traph)\*, [graphology](https://graphology.github.io/)
+**2016** - react, redux, electron for [Hyphe Browser](https://github.com/medialab/hyphe-browser)  
+**2017 v1** - *~~Java Lucene~~* [hyphe-traph](https://github.com/medialab/hyphe-traph)\*, [graphology](https://graphology.github.io/)
 
 \**custom index en python après avoir testé neo4j*
 
