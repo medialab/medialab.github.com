@@ -56,7 +56,11 @@ Note: loop.
 
 ---
 
-## 1. Récuperer des données structurées sur le web
+<h2>
+  <span class="red-number">I.</span><br>Récuperer des données structurées sur le web
+</h2>
+
+---
 
 * Question de santé publique: perception de la césarienne.
 * Qu'en disent les gens sur des forums comme `aufeminin.com` ou `doctissimo`.
@@ -85,7 +89,11 @@ DEMO
 
 ---
 
-## 2. Explorer et collecter les documents web
+<h2>
+  <span class="red-number">II.</span><br>Explorer et collecter les documents web
+</h2>
+
+---
 
 * Comment s'organisent les communautés de développeur JS sur le web
 * Définissons une sous-partie du web et analysons la
@@ -114,7 +122,11 @@ DEMO
 
 ---
 
-## 3. Réaliser une enquête philosophique
+<h2>
+  <span class="red-number">III.</span><br>Réaliser une enquête philosophique
+</h2>
+
+---
 
 * Produire un rapport d'enquête
 * Convier d'autres chercheurs à contribuer à l'enquête
@@ -153,7 +165,11 @@ Enjeux design -> interfaces interactives complexes, animations
 
 ---
 
-## 4. Analyser des données complexes par l'exploration
+<h2>
+  <span class="red-number">IV.</span><br>Analyser des données complexes par l'exploration
+</h2>
+
+---
 
 * Des chercheurs assemblent des données d'archive sur le commerce du XVIIIe siècle
 * Comment traiter et faire sens de cette masse de données complexe?
