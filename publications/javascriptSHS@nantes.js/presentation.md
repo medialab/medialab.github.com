@@ -94,7 +94,7 @@ Note: les gens utilisent leur propre navigateur avec leurs données de navigatio
 
 ---
 ## Question
-Comment s'organisent les **communautés** de développeur JS ?
+Comment s'organisent les **communautés** de développeurs JS ?
 ## Méthode
 Trouver des **sites web** de développeurs JS et les analyser
 
@@ -132,7 +132,7 @@ Trouver des **sites web** de développeurs JS et les analyser
 ---
 
 <h2>
-  <span class="red-number">IV.</span><br>Analyser des données complexes<br> par l'exploration
+  <span class="red-number">III.</span><br>Analyser des données complexes<br> par l'exploration
 </h2>
 
 ---
@@ -174,7 +174,7 @@ Quelle spécialisation **régionale** ?  **Par marchandise** ?
 ---
 
 <h2>
-  <span class="red-number">III.</span><br>Réaliser une enquête <br>philosophique collaborative
+  <span class="red-number">IV.</span><br>Réaliser une enquête <br>philosophique collaborative
 </h2>
 
 ---
