@@ -5,8 +5,9 @@
 <center>[@paulanomalie](https://twitter.com/paulanomalie) du [@medialab_scpo](https://twitter.com/medialab_scpo)</center>  
 <center>[Datarama #3 - data storytelling](https://www.eventbrite.fr/e/billets-datarama-3-data-storytelling-46971432820) le 19/09/2018</center>  
 
----
 
+
+Note:
 annonce du plan ?
 
 - présentation du contexte
@@ -37,8 +38,6 @@ Citer la conf web studies
 
 - raconter l'histoire de nos données 
 
----
-
 qu'est ce qu'on écrit ?
 
 - des articles ou communication
@@ -65,11 +64,17 @@ qu'est ce qu'on écrit ?
 - Ingénierie
 - Design
 
-
 Note:
 Trois premières embauches dont un étudiant de l'école de design de nantes
 ---
 
+## Pourquoi et comment raconter des histoires avec des données en Sciences Humaines et Sociale ?
+
+- contexte des SHS et contraintes méthodologiques
+- exposer de réalisations tentant de résoudre ces points
+- l'importance du design
+
+---
 ## recherche empirique
 Observer, décrire et analyser le monde.  
 Des histoires qui tentent de répondre à des questions.
@@ -98,11 +103,10 @@ Note: Anthropologie d'une enquête scientifique cherchant à comprendre la trans
 ![figure , Latour 1993](./img/chaine_reference.png)<!-- .element: style="width:80%;margin:0; padding-left:10%"--><br><center style="margin-top:-15px">*(Latour 1993)*</center>
 
 Note: Tout au long du processus d'enquête, le monde (matière) est transformé petit à petit par réductions successives en formes, cad en language. Cette transformation constitue le phénomène qui tranforme le monde en langage. La vérité est transportée le long de cette chaîne. Elle tient si il est possible de repartir en arrière en suivant les références successives.
----
 ## une chaîne de transformations traçable et réversible
 La démarche scientifique empirique se base sur la **transformation** du monde en langage.  
 La référence scientifique tient si la chaîne de transformation est **traçable et réversible**.  
-Ces transformations **réduisent** les particularités de la réalité afin d'en **amplifie** un aspect précis à l'aide du langage.
+Ces transformations **réduisent** les particularités de la réalité afin d'en **amplifier** un aspect précis à l'aide du langage.
 
 --- 
 
@@ -110,23 +114,27 @@ Ces transformations **réduisent** les particularités de la réalité afin d'en
 
 <small>**McCloud, Scott**. *Understanding Comics: The Invisible Art*. Reprint edition, William Morrow Paperbacks, 1994.</small>
 
----
-
+Note:
 ## mise en forme
-
 Le langage de "cartoon" joue du même principe de réduction/amplification.
 L'abstraction (par opposition au réalisme) réduit pour amplifier.  
-La sémiologie dans l'écriture scientifique.
 
 ---
 
+## <span class="red-number">I.</span> une chaîne de transformations
+Toute écriture scientifique y compris la sémiologie est le bout d'une chaîne de transformations.  
+Elle opère une nécessaire réduction (symbolisation, abstraction...) du monde.  
+Il doit être possible de remonter cette chaîne qui maintient la référence scientifique.
 
-## des données obtenues
+Note: 
+L'écriture scientifique n'utilise pas des données pour répondre à une question, elle raconte comment la réponse peut être obtenue en faisant symbolisant le monde par réductions successives.  
 
-L'écriture scientifique n'utilise pas des données pour répondre à une question, elle raconte comment la réponse peut être obtenue en symbolisant le monde par réductions successives.  
-<q cite="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">data as capta</q>  
+---
+## <q cite="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">data as capta</q>
+
+Les données sont toutes le résultat d'une opération d'inscription.    
 Les données nativement numériques autant que les échantillons de terre de Boa Vista.  
-Leur formalisme leur confère une autorité qui masque les innombrables nuances qu'elles représentent.
+Leur formalisme leur confère une autorité qui masque les innombrables nuances qu'elles réduisent (et amplifient...).
 
 
 <small>**Drucker, Johanna**. *« Humanities Approaches to Graphical Display »*. Digital Humanities Quarterly, vol. 5, nᵒ 1, 2011, http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.</small>
@@ -149,13 +157,20 @@ Leur formalisme leur confère une autorité qui masque les innombrables nuances 
 
 Note: I am suggesting that we rethink the foundation of the way data are conceived as capta by shifting its terms from certainty to ambiguity and
 ---
-## structure à priori vs. à posteriori
+## <span class="red-number">II.</span> ~~data~~ capta vizualisation
+
+Donner à voir les contextes de production des données  
+Représenter complexité et diversité des réalités et des interprétations  
+
+---
+## individus vs. structures
 
 <blockquote cite="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-4446.2012.01428.x/abstract">
-once we have the experience of following individuals through their connections [...] it might be more rewarding to begin navigating datasets without making the distinction between the level of individual component and that of aggregated structure.</blockquote>
+ it might be more rewarding to begin navigating datasets without making the distinction between the level of individual component and that of aggregated structure.</blockquote>
 <small>**Latour, Bruno, et al.** *« ‘The Whole Is Always Smaller than Its Parts’ - a Digital Test of Gabriel Tardes’ Monads »*. The British Journal of Sociology, vol. 63, nᵒ 4, décembre 2012, p. 590‑615. CrossRef, doi:10.1111/j.1468-4446.2012.01428.x.</small>
 
 ---
+## effet de structure généré par l'exploration intéractive
 <blockquote cite="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-4446.2012.01428.x/abstract">When we navigate on a screen, zooming in and out, changing the projection rules, aggregating and disaggregating according to different variables, what stands out is what remains constant through the shifting of viewpoints (Gibson 1986). This is our ‘whole’ [...] much smaller than the sum of its parts"
 (Latour et al. 2012)
 </blockquote> 
@@ -166,6 +181,14 @@ once we have the experience of following individuals through their connections [
 <blockquote cite="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-4446.2012.01428.x/abstract">&ldquo;Our approach suggests a way of navigating through these datascapes with a monadological point of view, which can capture the richness of associations while remaining faithful to the complexity of agents.&rdquo;  
 (Latour et al. 2012)
 </blockquote> 
+
+---
+## <span class="red-number">III.</span> explorer des associations
+
+Ne pas structurer (agréger) à priori  
+Explorater le plus grand niveau de détails  
+Émergence des effets de structure  
+Tester des agrégations comme autant de réductions possibles
 
 ---
 
@@ -182,11 +205,9 @@ see. »
 
 ## résumons
 
-- réduire le monde en symboles
-- chaîne de transformation tracée réversible
-- *~~data~~* capta vizualisation
-- mise en forme et complexité de l'interprétation
-- capturer la richesse par l'exploration
+1. chaîne de transformations réversible
+2. *~~data~~* capta vizualisation
+3. capturer la richesse des associations par l'exploration
 
 ---
 
@@ -200,6 +221,8 @@ http://owni.fr/2011/07/12/2011/02/21/zoomer-ou-dezoomer-les-enjeux-politiques-de
 ---
 ## 1. le web comme terrain d'enquête numérique
 
+[Hyphe](http://hyphe.medialab.sciences-po.fr) :
+
 - construire un corpus à partie de données numériques
 - mettre le chercheur au coeur du processus
 - une méthode quali-quantitative
@@ -207,7 +230,20 @@ http://owni.fr/2011/07/12/2011/02/21/zoomer-ou-dezoomer-les-enjeux-politiques-de
  
 ---
 
+define WE
+
+https://hyphe.medialab.sciences-po.fr/beta2
 Note: How to become a centaur 
+
+---
+
+crawl
+
+--- 
+prospect
+
+---
+network
 
 ---
 
@@ -218,17 +254,27 @@ Note: How to become a centaur
 
 ---
 
-![metadata view](./img/datascapes/ricardo.png)
+![metadata view](./img/datascapes/ricardo_metadata.png)
 
 ---
 
-liste des partenaires
+![world view](./img/datascapes/ricardo_world.png)
 
 ---
-bilateral view
+
+![country view](./img/datascapes/ricardo_country.png)
+---
+
+![partner view](./img/datascapes/ricardo_partners.png)
+---
+
+![bilateral view](./img/datascapes/ricardo_bilateral.png)
 
 ---
-data versionning
+![data versionning on github](./img/datascapes/ricardo_github.png)
+---
+
+![Statistical Abstract on Internet Archive](./img/datascapes/internetarchive_statisticalabstract.png.png)
 
 ---
 
@@ -250,6 +296,10 @@ agrégations dynamique
 
 - explorer la complexité
 - révéler des hypothèses 
+
+---
+
+EAT datascape
 
 ---
 ## 5. rendre compte
@@ -317,6 +367,11 @@ L'**abondance** et la **diversité** des données demandent des équipements sp�
 Construire des **corpus-instruments**, comme des interfaces d'exploration qui prennent en compte la **spécificité** des corpus et des questions de recherche.
 
 
+---
+# limitations
+
+---
+# et au bout de chaîne : l'écriture
 
 ---
 
