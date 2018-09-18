@@ -274,7 +274,7 @@ network
 ![data versionning on github](./img/datascapes/ricardo_github.png)
 ---
 
-![Statistical Abstract on Internet Archive](./img/datascapes/internetarchive_statisticalabstract.png.png)
+![Statistical Abstract on Internet Archive](./img/datascapes/internetarchive_statisticalabstract.png)
 
 ---
 
@@ -300,20 +300,6 @@ agrégations dynamique
 ---
 
 EAT datascape
-
----
-## 5. rendre compte
-
-- exploration n'est pas confirmation
-- raconter un chemin d'exploration
-
----
-
-MEDEA
-
---- 
-
-manylines
 
 ---
 La conception de **datascape**  
@@ -368,10 +354,43 @@ Construire des **corpus-instruments**, comme des interfaces d'exploration qui pr
 
 
 ---
-# limitations
+
+# Limitations
 
 ---
-# et au bout de chaîne : l'écriture
+## Instruments d'exploration 
+## ≠
+## Écriture d'article
+
+- exploration n'est pas confirmation
+- raconter un chemin d'exploration
+
+---
+
+MEDEA
+
+--- 
+
+manylines
+
+---
+
+<center><small>about storytelling: *(Girard et al. 2015)*</small></center><!-- .element: class="fragment" data-fragment-index="1" -->  
+---
+### Such an investment!? 
+### Just to raise questions?
+<center>
+Building visualization systems doesn't only input a tool.<!-- .element: class="fragment" data-fragment-index="1" -->  
+The design process and the data exploration produces knowledge.<!-- .element: class="fragment" data-fragment-index="1" --></center>
+---
+## Data reading-writing cycles
+<center>
+We need better **data curation** tools.  
+Bound to **data versionning** systems.  
+**Embed** in exploration interfaces.</center>
+---
+## Let users define custom aggregations
+## \#UX
 
 ---
 
