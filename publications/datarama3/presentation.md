@@ -216,7 +216,7 @@ Note:
 ### <span class="red-number">5.</span> rendre compte
 
 ---
-## <span class="red-number">1.</span> le web comme terrain d'enquête
+## <span class="red-number">1.</span>le web comme terrain d'enquête
 
 Le logiciel [Hyphe](http://hyphe.medialab.sciences-po.fr) :
 
@@ -245,9 +245,15 @@ network
 
 ---
 
-## 2. visualiser des captas
+## <span class="red-number">2.</span>exploiter des archives
 
-- révéler les imperfections
+le projet [RICardo](http://ricardo.medialab.sciences-po.fr) :
+
+- analyser le commerce entre les nations du monde
+- au XIXème siècle
+- construire des données (capta) à partir d'archives 
+- explorer visuellement
+- exploiter leurs imperfections
 - tracer les transformations
 
 ---
@@ -276,24 +282,26 @@ network
 
 ---
 
-## 3. choisir sa grille de lecture
+## <span class="red-number">3.</span>révéler la fabrication des lois
 
-- pluralité des choix d'agrégation
-- exploration visuelle dynamique
+le projet [La Fabrique de la loi](https://www.lafabriquedelaloi.fr) :
+- collaboration [citoyens](https://www.regardscitoyens.org) - recherche
+- déconstruire le processus du parlement
+- tracer qui fait la loi
+- explorer la diversité des cas
+ 
 ---
 
-classifications des noms de marchandises
+ajouter les copies d'écrans
 
 ---
 
-agrégations dynamique
+## <span class="red-number">4.</span>collaborations artistes-ingénieurs
 
----
-
-## 4. explorer la complexité
-
-- explorer la complexité
-- révéler des hypothèses 
+le projet [Experiment in Art and Technology datascape](http://jiminy.medialab.sciences-po.fr/eat_datascape/) :
+- explorer les associations
+- parcourir de proche en proche
+- fabriquer de l'information
 
 ---
 
