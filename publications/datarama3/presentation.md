@@ -3,7 +3,7 @@
 
 <h2><center>Raconter des histoires avec des données<br>en Sciences Humaines et Sociales</center></h2>
 <center>[Datarama #3 - data storytelling](https://www.eventbrite.fr/e/billets-datarama-3-data-storytelling-46971432820) le 19/09/2018</center>  
-  
+<br>
 <center>Paul Girard [@paulanomalie](https://twitter.com/paulanomalie)<br>
 médialab, Sciences Po [@medialab_scpo](https://twitter.com/medialab_scpo)</center>
 
@@ -223,28 +223,27 @@ Le logiciel [Hyphe](http://hyphe.medialab.sciences-po.fr) :
 - construire un corpus à partie du World Wide Web
 - mettre le chercheur au coeur du processus de collecte
 - une méthode quali-quantitative
-- interface et Expérience Utilisateur
  
 ---
+<section data-background='#EEEEEE'></section>
 
-![web entités]()
+![](./img/hyphe_WE.png)
+---
+![](./img/hyphe_new_WE.png)
 
 Note: How to become a centaur 
 https://hyphe.medialab.sciences-po.fr/beta2
-
-
 ---
-
-crawl
-
+![](./img/hyphe_prospect.png)
+---
+![](./img/hyphe_network.png)
 --- 
-prospect
+<section data-background='./img/hybro.png'></section>
+---
+## interfaces et expériences utilisateur
+## pour l'ethnographie numérique
 
 ---
-network
-
----
-
 ## <span class="red-number">2.</span>exploiter des archives
 
 le projet [RICardo](http://ricardo.medialab.sciences-po.fr) :
@@ -257,29 +256,34 @@ le projet [RICardo](http://ricardo.medialab.sciences-po.fr) :
 - tracer les transformations
 
 ---
+<section data-background='./img/datascapes/ricardo_metadata.png'></section>
+---
 
-![metadata view](./img/datascapes/ricardo_metadata.png)
+<section data-background='./img/datascapes/ricardo_metadata.png'></section>
 
 ---
 
-![world view](./img/datascapes/ricardo_world.png)
+<section data-background='./img/datascapes/ricardo_world.png'></section>
 
 ---
 
-![country view](./img/datascapes/ricardo_country.png)
+<section data-background='./img/datascapes/ricardo_country.png'></section>
 ---
 
-![partner view](./img/datascapes/ricardo_partners.png)
+<section data-background='./img/datascapes/ricardo_partners.png'></section>
 ---
 
-![bilateral view](./img/datascapes/ricardo_bilateral.png)
+<section data-background='./img/datascapes/ricardo_bilateral.png'></section>
 
 ---
-![data versionning on github](./img/datascapes/ricardo_github.png)
+<section data-background='./img/datascapes/ricardo_github.png'></section>
 ---
 
-![Statistical Abstract on Internet Archive](./img/datascapes/internetarchive_statisticalabstract.png)
+<section data-background='./img/datascapes/internetarchive_statisticalabstract.png'></section>
+---
 
+## révéler et exploiter l'hétérogénéité
+## ne pas forcément "nettoyer"
 ---
 
 ## <span class="red-number">3.</span>révéler la fabrication des lois
@@ -292,10 +296,23 @@ le projet [La Fabrique de la loi](https://www.lafabriquedelaloi.fr) :
  
 ---
 
-ajouter les copies d'écrans
+<section data-background='./img/datascapes/LFDLL_lois.png'></section>
 
 ---
 
+<section data-background='./img/datascapes/LFDLL_procédrue.png'></section>
+
+---
+
+<section data-background='./img/datascapes/LFDLL_amendements.png'></section>
+---
+
+<section data-background='./img/datascapes/LFDLL_débats_1.png'></section>
+---
+
+<section data-background='./img/datascapes/LFDLL_debats_2.png'></section>
+
+---
 ## <span class="red-number">4.</span>collaborations artistes-ingénieurs
 
 le projet [Experiment in Art and Technology datascape](http://jiminy.medialab.sciences-po.fr/eat_datascape/) :
@@ -305,8 +322,23 @@ le projet [Experiment in Art and Technology datascape](http://jiminy.medialab.sc
 
 ---
 
-EAT datascape
-http://jiminy.medialab.sciences-po.fr/eat_datascape/
+<section data-background='./img/datascapes/eat_time_curve.png'></section>
+
+---
+
+<section data-background='./img/datascapes/eat_Oracle.png'></section>
+---
+
+<section data-background='./img/datascapes/eat_source.png'></section>
+
+---
+
+<section data-background='./img/datascapes/eat_rauschenberg.png'></section>
+---
+
+<section data-background='./img/datascapes/eat_network.png'></section>
+
+
 ---
 La conception de **datascape**  
 est une méthode de recherche qui propose  
@@ -326,7 +358,8 @@ A chaque Datascape sa **conception spécifique**
 Lien outil-recherche pensé en s'inspirant des travaux de la Sociologie des Sciences et des Techniques.
 
 <p align="center">
-<small>(Latour 1993), (Bowker 2000)</small>
+<small>**Bowker, G. C.** *« Biodiversity Datadiversity »*. Social Studies of Science, vol. 30, nᵒ 5, octobre 2000, p. 643‑83. CrossRef, doi:10.1177/030631200030005001.
+</small>
 </p>
 
 ---
@@ -373,23 +406,43 @@ L'exploration visuelle nourrit l'interprétation
 ---
 
 ## cycles exploration-modification
-<center>
+
 Nous avons besoin de meilleurs **outils d'édition** de données.  
 Liés aux systèmes de **suivi de versions de données**.  
-**Embarqués** dans les interfaces d'exporation.</center>
-  
-# \#User eXperience
+**Embarqués** dans les interfaces d'exporation.
+<br><br>
+## => \#User eXperience
 
 ---
 ## exploration ≠ narration
 
+- l'expérimentation [Manylines](http://tools.medialab.sciences-po.fr/manylines)
+- les publications du [projet MEDEA](http://medea.medialab.sciences-po.fr)
 ---
 
-MEDEA
+<section data-background='./img/manylines_0.png'></section>
+---
+<section data-background='./img/manylines_1.png'></section>
+---
+<section data-background='./img/manylines_2.png'></section>
+---
+<section data-background='./img/manylines_4.png'></section>
+---
+<section data-background='./img/manylines_6.png'></section>
+---
+<section data-background='./img/medea_0.png'></section>
+---
+<section data-background='./img/medea_1.png'></section>
+---
+<section data-background='./img/medea_2.png'></section>
+---
 
---- 
-
-manylines
+Outils d'écriture en cours de développement.  
+Penser pour un usage en salle de classe.  
+<br>
+[FORmation par la Cartographie des Controverses à l’Analyse des Sciences et Techniques](http://controverses.org/)  
+[https://github.com/medialab/fonio](https://github.com/medialab/fonio)  
+[https://github.com/medialab/bulgur](https://github.com/medialab/bulgur)  
 
 ---
 
