@@ -1,10 +1,11 @@
 
 
 
-# Raconter des histoires avec des données
-<center>[@paulanomalie](https://twitter.com/paulanomalie) du [@medialab_scpo](https://twitter.com/medialab_scpo)</center>  
+<h2><center>Raconter des histoires avec des données<br>en Sciences Humaines et Sociales</center></h2>
 <center>[Datarama #3 - data storytelling](https://www.eventbrite.fr/e/billets-datarama-3-data-storytelling-46971432820) le 19/09/2018</center>  
-
+  
+<center>Paul Girard [@paulanomalie](https://twitter.com/paulanomalie)<br>
+médialab, Sciences Po [@medialab_scpo](https://twitter.com/medialab_scpo)</center>
 
 
 Note:
@@ -170,7 +171,7 @@ Représenter complexité et diversité des réalités et des interprétations
 <small>**Latour, Bruno, et al.** *« ‘The Whole Is Always Smaller than Its Parts’ - a Digital Test of Gabriel Tardes’ Monads »*. The British Journal of Sociology, vol. 63, nᵒ 4, décembre 2012, p. 590‑615. CrossRef, doi:10.1111/j.1468-4446.2012.01428.x.</small>
 
 ---
-## effet de structure généré par l'exploration intéractive
+## déceler des structures par l'exploration
 <blockquote cite="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-4446.2012.01428.x/abstract">When we navigate on a screen, zooming in and out, changing the projection rules, aggregating and disaggregating according to different variables, what stands out is what remains constant through the shifting of viewpoints (Gibson 1986). This is our ‘whole’ [...] much smaller than the sum of its parts"
 (Latour et al. 2012)
 </blockquote> 
@@ -183,10 +184,10 @@ Représenter complexité et diversité des réalités et des interprétations
 </blockquote> 
 
 ---
-## <span class="red-number">III.</span> explorer des associations
+## <span class="red-number">III.</span> explorer la complexité
 
 Ne pas structurer (agréger) à priori  
-Explorater le plus grand niveau de détails  
+Explorer le plus grand niveau de détails  
 Émergence des effets de structure  
 Tester des agrégations comme autant de réductions possibles
 
@@ -203,37 +204,34 @@ see. »
 
 ---
 
-## résumons
+## <span class="red-number">I.</span> une chaîne de transformations
+## <span class="red-number">II.</span> ~~data~~ capta vizualisation
+## <span class="red-number">III.</span> explorer la complexité
 
-1. chaîne de transformations réversible
-2. *~~data~~* capta vizualisation
-3. capturer la richesse des associations par l'exploration
-
----
-
-### 1. terrain d'enquête numérique
-### 2. visualiser des captas
-### 3. choisir sa grille de lecture
-### 4. explorer la complexité
-http://owni.fr/2011/07/12/2011/02/21/zoomer-ou-dezoomer-les-enjeux-politiques-des-donnees-ouvertes/index.html 
-### 5. rendre compte
+Note:
+### <span class="red-number">1.</span> terrain d'enquête numérique
+### <span class="red-number">2.</span> visualiser des captas
+### <span class="red-number">3.</span> choisir sa grille de lecture
+### <span class="red-number">4.</span> explorer la complexité
+### <span class="red-number">5.</span> rendre compte
 
 ---
-## 1. le web comme terrain d'enquête numérique
+## <span class="red-number">1.</span> le web comme terrain d'enquête
 
-[Hyphe](http://hyphe.medialab.sciences-po.fr) :
+Le logiciel [Hyphe](http://hyphe.medialab.sciences-po.fr) :
 
-- construire un corpus à partie de données numériques
-- mettre le chercheur au coeur du processus
+- construire un corpus à partie du World Wide Web
+- mettre le chercheur au coeur du processus de collecte
 - une méthode quali-quantitative
-- concevoir une Expérience Utilisateur
+- interface et Expérience Utilisateur
  
 ---
 
-define WE
+![web entités]()
 
-https://hyphe.medialab.sciences-po.fr/beta2
 Note: How to become a centaur 
+https://hyphe.medialab.sciences-po.fr/beta2
+
 
 ---
 
@@ -300,7 +298,7 @@ agrégations dynamique
 ---
 
 EAT datascape
-
+http://jiminy.medialab.sciences-po.fr/eat_datascape/
 ---
 La conception de **datascape**  
 est une méthode de recherche qui propose  
@@ -344,7 +342,7 @@ Exploiter complexité et hétérogénéité des données
 - transformer, filtrer et agréger **à la demande**
 - raccourcir les cycles **calcul-interprétation**
 - favoriser l'**émergence de motifs** par l'exploration
-- mieux lire pour **mieux comprendre**
+- mieux lire pour **mieux interpréter**
 
 ---
 
@@ -358,12 +356,24 @@ Construire des **corpus-instruments**, comme des interfaces d'exploration qui pr
 # Limitations
 
 ---
-## Instruments d'exploration 
-## ≠
-## Écriture d'article
+## exploration ≠ confirmation
 
-- exploration n'est pas confirmation
-- raconter un chemin d'exploration
+Un tel investissement uniquement pour générer des hypothèses ?  
+La conception produit de la connaissance  
+L'exploration visuelle nourrit l'interprétation 
+
+---
+
+## cycles exploration-modification
+<center>
+Nous avons besoin de meilleurs **outils d'édition** de données.  
+Liés aux systèmes de **suivi de versions de données**.  
+**Embarqués** dans les interfaces d'exporation.</center>
+  
+# \#User eXperience
+
+---
+## exploration ≠ narration
 
 ---
 
@@ -372,25 +382,6 @@ MEDEA
 --- 
 
 manylines
-
----
-
-<center><small>about storytelling: *(Girard et al. 2015)*</small></center><!-- .element: class="fragment" data-fragment-index="1" -->  
----
-### Such an investment!? 
-### Just to raise questions?
-<center>
-Building visualization systems doesn't only input a tool.<!-- .element: class="fragment" data-fragment-index="1" -->  
-The design process and the data exploration produces knowledge.<!-- .element: class="fragment" data-fragment-index="1" --></center>
----
-## Data reading-writing cycles
-<center>
-We need better **data curation** tools.  
-Bound to **data versionning** systems.  
-**Embed** in exploration interfaces.</center>
----
-## Let users define custom aggregations
-## \#UX
 
 ---
 
