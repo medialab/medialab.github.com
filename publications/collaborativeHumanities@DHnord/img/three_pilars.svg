@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 781 400">
+ <defs>
+  <pattern id="Polkadots-largewhite" height="10" width="10" patternUnits="userSpaceOnUse" patternTransform="translate(0) scale(10)">
+   <circle cy=".81" cx="2.567" r=".45" fill="#fff"/>
+   <circle cy="2.33" cx="3.048" r=".45" fill="#fff"/>
+   <circle cy="2.415" cx="4.418" r=".45" fill="#fff"/>
+   <circle cy="3.029" cx="1.844" r=".45" fill="#fff"/>
+   <circle cy="1.363" cx="6.08" r=".45" fill="#fff"/>
+   <circle cy="4.413" cx="5.819" r=".45" fill="#fff"/>
+   <circle cy="4.048" cx="4.305" r=".45" fill="#fff"/>
+   <circle cy="3.045" cx="5.541" r=".45" fill="#fff"/>
+   <circle cy="5.527" cx="4.785" r=".45" fill="#fff"/>
+   <circle cy="5.184" cx="2.667" r=".45" fill="#fff"/>
+   <circle cy="1.448" cx="7.965" r=".45" fill="#fff"/>
+   <circle cy="5.049" cx="7.047" r=".45" fill="#fff"/>
+   <circle cy=".895" cx="4.34" r=".45" fill="#fff"/>
+   <circle cy=".34" cx="7.125" r=".45" fill="#fff"/>
+   <circle cy="1.049" cx="9.553" r=".45" fill="#fff"/>
+   <circle cy="2.689" cx="7.006" r=".45" fill="#fff"/>
+   <circle cy="2.689" cx="8.909" r=".45" fill="#fff"/>
+   <circle cy="4.407" cx="9.315" r=".45" fill="#fff"/>
+   <circle cy="3.87" cx="7.82" r=".45" fill="#fff"/>
+   <circle cy="5.948" cx="8.27" r=".45" fill="#fff"/>
+   <circle cy="7.428" cx="7.973" r=".45" fill="#fff"/>
+   <circle cy="8.072" cx="9.342" r=".45" fill="#fff"/>
+   <circle cy="9.315" cx="8.206" r=".45" fill="#fff"/>
+   <circle cy="9.475" cx="9.682" r=".45" fill="#fff"/>
+   <circle cy="6.186" cx="9.688" r=".45" fill="#fff"/>
+   <circle cy="6.296" cx="3.379" r=".45" fill="#fff"/>
+   <circle cy="8.204" cx="2.871" r=".45" fill="#fff"/>
+   <circle cy="8.719" cx="4.59" r=".45" fill="#fff"/>
+   <circle cy="9.671" cx="3.181" r=".45" fill="#fff"/>
+   <circle cy="7.315" cx="5.734" r=".45" fill="#fff"/>
+   <circle cy="6.513" cx="6.707" r=".45" fill="#fff"/>
+   <circle cy="9.67" cx="5.73" r=".45" fill="#fff"/>
+   <circle cy="8.373" cx="6.535" r=".45" fill="#fff"/>
+   <circle cy="7.154" cx="4.37" r=".45" fill="#fff"/>
+   <circle cy="7.25" cx=".622" r=".45" fill="#fff"/>
+   <circle cy="5.679" cx=".831" r=".45" fill="#fff"/>
+   <circle cy="8.519" cx="1.257" r=".45" fill="#fff"/>
+   <circle cy="6.877" cx="1.989" r=".45" fill="#fff"/>
+   <circle cy="3.181" cx=".374" r=".45" fill="#fff"/>
+   <circle cy="1.664" cx="1.166" r=".45" fill="#fff"/>
+   <circle cy=".093" cx="1.151" r=".45" fill="#fff"/>
+   <circle cy="10.093" cx="1.151" r=".45" fill="#fff"/>
+   <circle cy="4.451" cx="1.302" r=".45" fill="#fff"/>
+   <circle cy="3.763" cx="3.047" r=".45" fill="#fff"/>
+  </pattern>
+  <clipPath id="clipPath4396" clipPathUnits="userSpaceOnUse">
+   <g transform="matrix(.99958 -.025963 .029208 .99967 0 0)">
+    <circle stroke-width=".05" stroke="#000" cy="514.24" cx="431.62" r="33.185" fill="none"/>
+    <circle stroke-width=".05" stroke="#000" cy="718.11" cx="431.5" r="33.185" fill="none"/>
+    <circle stroke-width=".05" transform="translate(0 252.36)" stroke="#000" cy="364" cx="617" r="33.185" fill="none"/>
+   </g>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0,-400)" stroke="#fff" display="none" fill="none">
+  <path transform="matrix(-.43995 .31338 -.33058 -.41801 817.19 729.55)" d="m467.14 840.93-76.14-178.89-76.14-178.9 193 23.51 193 23.5-116.86 155.39z"/>
+  <g stroke-width="1px">
+   <path d="m452.21 515.36-110.31 197.64"/>
+   <path d="m332.27 522.48 122.33 207.53"/>
+   <path d="m518.24 625.95-255.27 0.35356" display="inline"/>
+  </g>
+ </g>
+ <g transform="translate(0 -652.36)" stroke="#fff">
+  <ellipse clip-path="url(#clipPath4396)" rx="124.83" transform="matrix(.99966 .025963 -.029208 .99957 -98 262)" ry="117.7" cy="603.37" cx="510.51" stroke-width="2" fill="none"/>
+  <g fill="#fff">
+   <circle cx="519.41" cy="878.56" r="3.3036"/>
+   <circle cx="333.58" cy="980.5" r="3.3036"/>
+   <circle cx="333.61" cy="776.1" r="3.3036"/>
+  </g>
+ </g>
+ <g transform="translate(0 -652.36)" display="none">
+  <g fill="#fff">
+   <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m510.51 484.66c-69.453 0-125.83 53.124-125.83 118.7 0 65.577 56.381 118.7 125.83 118.7 69.453 0 125.83-53.124 125.83-118.7 0-65.577-56.379-118.7-125.83-118.7zm0 2c68.434 0 123.83 52.27 123.83 116.7 0 64.431-55.398 116.7-123.83 116.7-68.434 0-123.83-52.27-123.83-116.7 0-33.956 15.387-64.535 39.96-85.864 22.054-19.143 51.506-30.837 83.874-30.837z" clip-path="url(#clipPath4396)" transform="matrix(.99966 .025963 -.029208 .99957 0 0)" display="inline"/>
+   <g stroke="#fff">
+    <circle display="inline" cy="616.56" cx="617.41" r="3.3036"/>
+    <circle display="inline" cy="718.5" cx="431.58" r="3.3036"/>
+    <circle display="inline" cy="514.1" cx="431.61" r="3.3036"/>
+   </g>
+  </g>
+  <rect display="inline" transform="translate(0 252.36)" height="497.71" width="862.58" stroke="#fff" y="101.43" x="67.929" stroke-width=".01" fill="none"/>
+ </g>
+ <g transform="translate(0,-400)" display="none">
+  <path transform="matrix(-.43995 .31338 -.33058 -.41801 915.19 467.55)" display="inline" fill="url(#Polkadots-largewhite)" d="m467.14 840.93-76.14-178.89-76.14-178.9 193 23.51 193 23.5-116.86 155.39z"/>
+ </g>
+ <g font-size="40px" transform="translate(0,-400)" font-family="sans-serif" fill="#ffffff">
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="465.14288" x="23.428558" line-height="125%"><tspan x="23.428558" y="465.14288">Human and </tspan><tspan x="23.428558" y="515.14288">Social Sciences</tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="641.91211" x="527.6637" line-height="125%"><tspan x="527.6637" y="641.91211">Engineering</tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="756.48352" x="192.80667" line-height="125%"><tspan x="192.80667" y="756.48352">Design</tspan></text>
+ </g>
+ <g font-size="32.5px" transform="translate(0,-400)" font-style="italic" font-family="AnjaliOldLipi" display="none" fill="#ffffff">
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="89.99999762%" y="511.30151" x="436.05743"><tspan line-height="89.99999762%" y="511.30151" x="436.05743">Research</tspan><tspan line-height="89.99999762%" y="540.55151" x="436.05743">Instruments</tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="89.99999762%" y="724.65045" x="432.86017"><tspan line-height="89.99999762%" y="724.65045" x="432.86017">User eXperince </tspan><tspan line-height="89.99999762%" y="753.90045" x="432.86017">&amp; Interface</tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="89.99999762%" y="621.43433" x="55.029922"><tspan line-height="89.99999762%" y="621.43433" x="55.029922">Research Design</tspan><tspan line-height="89.99999762%" y="650.68433" x="55.029922">Situated Inquiries</tspan></text>
+ </g>
+ <g font-size="40px" transform="translate(0,-400)" font-family="sans-serif" display="none" fill="#ffffff">
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="514.76166" x="196.66968" line-height="125%"><tspan x="196.66968" y="514.76166">Papers</tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="641.91211" x="527.6637" line-height="125%"><tspan x="527.6637" y="641.91211">Softwares</tspan></text>
+  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="756.48352" x="128.80667" line-height="125%"><tspan x="128.80667" y="756.48352">Situations</tspan></text>
+ </g>
+</svg>
