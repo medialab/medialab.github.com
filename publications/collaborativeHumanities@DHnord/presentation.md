@@ -17,7 +17,7 @@ médialab, Sciences Po [@medialab_scpo](https://twitter.com/medialab_scpo)</cent
 
 # <span class="red-number">I.</span> Collaboration ?
 
-<center>*As seen from an old but determinant personnal work.*</center>
+<center>*As seen from an old but determinant personal work.*</center>
 
 ---
 <center>
@@ -27,7 +27,7 @@ médialab, Sciences Po [@medialab_scpo](https://twitter.com/medialab_scpo)</cent
 
 Complex ?
 
-- neither a sum of simple problems (only needs more persons)
+- neither a sum of simple problems (only needs more people)
 - neither a sum of complicated ones (solvable by experts) 
 - a challenge which needs the collaboration of several people and not the sum of their expertise.
 
@@ -146,7 +146,7 @@ MEUNIER J.P., Deux modèles de la communication des savoirs. GreMS : http://www
 ---
 ## To communicate
 
-- Objectives: variations are not perturbation but personnal objectives
+- Objectives: variations are not perturbations but personnal objectives
 - Information: create a common vision by sharing information
 - Actions: inform about past, present and future actions to allow coordination
 
@@ -195,10 +195,10 @@ Founded in 2009 by Bruno Latour, directed by Dominique Cardon since 2017.
 ---
 ## Data sprints
 
-To build visual exploration of complex datasets we organize **interdisciplinary** design workshops :
+To build visual exploration of complex datasets we organize **interdisciplinary** design workshops:
 
 - Social Sciences and/or Humanities
-- Engeniery & Data Science
+- Engineery & Data Science
 - Information and Interactive Design
 
 <br>
@@ -211,7 +211,7 @@ at the same place and at the same time.
 
 ## Daily life
 
-To care the necessary frictions between different cultures:  
+To handle the necessary frictions between different cultures:  
 
 - shared governance (more on this later)
 - weekly team lunch
@@ -225,13 +225,13 @@ To care the necessary frictions between different cultures:
 ---
 ## The hybridation contradiction
 
-Trying to act as the other side of the collaboration is dangerous (engineers wanted to be social scientists or designers).  
+Trying to invest the other side of the collaboration is dangerous (engineers wanting to be social scientists or designers).  
 It implies frustrations and breaks the principles that we need complementary skills.  
 ---
 ## The hybridation contradiction
 
 But hybrid profiles fuel the collaboration process.  
-Not only we need but a daily integration produces such hybridations.
+Not only a need, but also a consequence of daily integration.
 ---
 ## aRt&D by V2_ Rotterdam (2005)
 ![](./img/v2_triangle.png)<!-- .element: style="width: 70%;margin:0 10px;float:left;"-->  
@@ -250,22 +250,22 @@ Publishers, NAi, et Joke Brouwer. ARt & D: Research and Development in Art. V2_ 
 
 ---
 
-## What status for the methodological research ? 
+## What kind of status for the methodological research ? 
 
-- What does research means in *research engineers* ?
-- What doew research means for designers ?
+- What does research mean in *research engineers* ?
+- What does research mean for designers ?
 
-A common ground with design and art school starting research programs :<br>
+A common ground with design and art school starting research programs:<br>
 **Recherche Action**
 
 Note: 
-difference between reseach engineer and computer scientists
+difference between reseach engineers and computer scientists
 
 ---
 
 ## Supporting research ?
 
-In french academic world, engineers and designers working in a Social Sciences context are called *"Appui et support à la recherche"*.  
+In the french academic world, engineers and designers working in a Social Sciences context are called *"Appui et support à la recherche"*.  
 Putting them underneath researchers.   
 Without needing to be researchers, they need a more comparable position to ensure productive collaborations.
   
@@ -274,7 +274,7 @@ Médialab's status doesn't apply quota on academic status to be elected in the u
 ---
 ## Get used to instability 
 
-A hack of academic world to foster innovations.  
+A hack of the academic world to foster innovations.
 An unstable set-up.
 
 
