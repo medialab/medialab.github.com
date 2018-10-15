@@ -274,7 +274,7 @@ Médialab's status doesn't apply quota on academic status to be elected in the u
 ---
 ## Get used to instability 
 
-A hack of the academic world to foster innovations.
+A hack of the academic world to foster innovations.  
 An unstable set-up.
 
 
