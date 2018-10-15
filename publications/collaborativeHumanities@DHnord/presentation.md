@@ -36,10 +36,10 @@ Note:
 
 ---
 ## A systemic and empiric approach
-
-The shower mixer as a complex situation when hot and cold water taps are controlled by two different persons.  
-Systems refer to such situations as a coupling issue.
-
+![](./img/rob.png)<!-- .element style="float:left; margin: 8px 15px 15px 15px ;"--> The shower mixer as a complex situation when hot and cold water taps are controlled by two different persons.  
+How to control both temperature and flow without collaborating ?  
+Systems analysis refer to such situations as a coupling issue.  
+<br>
 LE CARDINAL G., GUYONNET J.F., POUZOULLIC B., La dynamique de la confiance : Construire la confiance dans les projets complexes. Dunot : Paris, 1997.
 
 Note:
@@ -150,24 +150,23 @@ MEUNIER J.P., Deux modèles de la communication des savoirs. GreMS : http://www
 - Information: create a common vision by sharing information
 - Actions: inform about past, present and future actions to allow coordination
 
----
-## Decoupling scenarios
-
-![](./img/couplage_styles.png)<!-- .element: style="width:60%;margin:0px;"-->
-
 
 ---
-## conflict resolution
+## Conflict resolution
 
 ![](./img/eiseman_conflict_resolution.png)<!-- .element: style="width:60%;margin:0px;"-->
 
 EISEMAN J.W., The Journal of Applied Behavioral Science: « The third party consultation model for resolving recuring conflict collaboratively ». 1977. 13, 3, p. 104
 ---
-## creativity
+## Creativity
 
 ![](./img/dupont_creativité.png)<!-- .element: style="width:60%;margin:0px;"-->
 
 DUPONT C., La négociation. Dalloz : Paris, 1986. p. 22.
+---
+## Decoupling scenarios
+
+![](./img/couplage_styles.png)<!-- .element: style="width:60%;margin:0px;"-->
 
 ---
 # <span class="red-number">II.</span> Digital, Humanities and Design
@@ -182,16 +181,16 @@ Founded in 2009 by Bruno Latour, directed by Dominique Cardon since 2017.
 
 **Ambition to invent new research instruments**
 ---
-![](./img/three_pilars.svg)
+![](./img/three_pilars.png)
 
 <center>* Three pilars *</center>
 
 ---
-![](./img/three_pilars_in_between.svg)
+![](./img/three_pilars_in_between.png)
 
 <center>* Three bridges *</center>
 ---
-![](./img/three_pilars_publications.svg)
+![](./img/three_pilars_publications.png)
 <center>* Different kinds of publications *</center>
 ---
 ## Data sprints
@@ -206,20 +205,61 @@ To build visual exploration of complex datasets we organize **interdisciplinary*
 Adressing **content**, **implementation** and **design** issues  
 at the same place and at the same time.
 ---
-## <span class="red-number">III.</span> Side effects
+# <span class="red-number">III.</span> Side effects
+<center>*The daily life of collaboration issues.*</center>
+---
 
-Note:
-<center>*Some thoughts about the collaboration issues.*</center>
+## Daily life
+
+To care the necessary frictions between different cultures:  
+
+- shared governance (more on this later)
+- weekly team lunch
+- internal research seminar  
+- [monthly research methods workshop](http://)
+
+---
+![](./img/three_pilars_multiposition.png)
+<center>* continuous inter-disciplinary space *</center>
+
+---
+## The hybridation contradiction
+
+Trying to act as the other side of the collaboration is dangerous (engineers wanted to be social scientists or designers).  
+It implies frustrations and breaks the principles that we need complementary skills.  
+---
+## The hybridation contradiction
+
+But hybrid profiles fuel the collaboration process.  
+Not only we need but a daily integration produces such hybridations.
+---
+## aRt&D by V2_ Rotterdam (2005)
+![](./img/v2_triangle.png)<!-- .element: style="width: 70%;margin:0 10px;float:left;"-->  
+A for Art  
+R for Research  
+D for Development 
+
+---
+ 
+Long-term background refined by modifiers: α (humanities), β (natural science and technology) and γ (social sciences).
+
+![](./img/V2_collaboration_maths.png)
+
+
+Publishers, NAi, et Joke Brouwer. ARt & D: Research and Development in Art. V2_ publishing, 2005.
 
 ---
 
 ## What status for the methodological research ? 
 
-- What does research means in *research engineers* ? (and not computer scientists)
+- What does research means in *research engineers* ?
 - What doew research means for designers ?
 
 A common ground with design and art school starting research programs :<br>
 **Recherche Action**
+
+Note: 
+difference between reseach engineer and computer scientists
 
 ---
 
@@ -232,22 +272,8 @@ Without needing to be researchers, they need a more comparable position to ensur
 Médialab's status doesn't apply quota on academic status to be elected in the unit research council.
 
 ---
-![](./img/three_pilars_multiposition.svg)
-<center>* continuous inter-disciplinary space *</center>
+## Get used to instability 
 
----
-## The hybridation contradiction
-
-Trying to act as the other side of the collaboration is dangerous (engineers wanted to be a social scientists). It implies frustrations and breaks the principles that we need complementary skills.  
----
-## The hybridation contradiction
-
-But we need hybrid profiles between digital, design and SHS to fuel the collaboration process. Not only we need but we produce such hybridations.
-
----
-## Instability 
-
-A dayly effort to care the necessary frictions between the different cultures.  
 A hack of academic world to foster innovations.  
 An unstable set-up.
 
