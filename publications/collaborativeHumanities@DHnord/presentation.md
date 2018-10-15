@@ -216,7 +216,7 @@ To care the necessary frictions between different cultures:
 - shared governance (more on this later)
 - weekly team lunch
 - internal research seminar  
-- [monthly research methods workshop](http://)
+- [METAT](http://www.sciencespo.fr/recherche/fr/content/metat-latelier-de-methodes), monthly research methods workshop
 
 ---
 ![](./img/three_pilars_multiposition.png)
