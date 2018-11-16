@@ -38,7 +38,7 @@ With the support of Sciences Po LIEPP</small></center>
 
 <section data-background='./img/LFDLL_debats_2.png'></section>
 ---
-## French parliament digital ethnography
+## French parliament as a digital research field
 
 Both a corpus and an exploration instrument  
 Systematic traces of parliament activity  
