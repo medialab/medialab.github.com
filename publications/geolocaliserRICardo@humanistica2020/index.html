@@ -1,0 +1,155 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+       
+  <meta name = "DC.Format" content = "text/html">
+  <meta name = "DC.Type" content = "data story">
+  <meta name = "twitter:card" content="summary" />
+  <meta property = "og:type" content="website" />
+  
+    <title>Pourquoi et comment géolocaliser le commerce mondial des XIXème mi-XXème siècles  ?</title>
+    <meta name="DC.Title" content="Pourquoi et comment géolocaliser le commerce mondial des XIXème mi-XXème siècles  ?"/>
+    <meta name="twitter:title" content="Pourquoi et comment géolocaliser le commerce mondial des XIXème mi-XXème siècles  ?" />
+    <meta property="og:title" content="Pourquoi et comment géolocaliser le commerce mondial des XIXème mi-XXème siècles  ?" />
+  
+  
+    <meta name="DC.Creator" content="Paul Girard+" />
+    <meta name="author" content="Paul Girard+" />,
+    <meta name="DC.Creator" content="Béatrice Dedinger*" />
+    <meta name="author" content="Béatrice Dedinger*" />
+  
+
+
+       <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i" rel="stylesheet">
+
+      <style>
+        body{
+          position: absolute;
+          padding: 0;
+          margin: 0;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          font-family: Source Sans Pro, sans serif;
+        }
+        .shadow-content
+        {
+          display: none;
+        }
+        .loader-wrapper
+        {
+          background: #353635;
+          color: #f4f4f4;
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          display: flex;
+          flex-flow: row nowrap;
+          justify-content: center;
+          align-items: center;
+          left: 0;
+          top: 0;
+        }
+        .loader-container
+        {
+          display: flex;
+          flex-flow: column nowrap;
+          justify-content: center;
+          align-items: center;
+        }
+        a,a:visited,a:active,a:hover{
+          color: inherit;
+          text-decoration: none;
+        }
+        .loader-container h1
+        {
+          font-size: 6rem;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="shadow-content">
+        
+<h1>Pourquoi et comment géolocaliser le commerce mondial des XIXème mi-XXème siècles  ?</h1>
+<p>
+
+</p>
+<div>
+
+</div>
+
+      </div>
+      <div class="loader-wrapper">
+        <div class="loader-container">
+          <h3>Fonio - by <a href="http://www.medialab.sciences-po.fr/fr/" target="blank">médialab sciences po</a></h3>
+          <h1>Pourquoi et comment géolocaliser le commerce mondial des XIXème mi-XXème siècles  ?</h1>
+          <p>Loading ...</p>
+        </div>
+      </div>
+      <div id="mount"></div>
+      <script>
+        window.__locale = "en";
+        
+        function loadJS(url, location){
+          //url is URL of external file, implementationCode is the code
+          //to be called from the file, location is the location to 
+          //insert the <script> element
+
+          var scriptTag = document.createElement('script');
+          scriptTag.src = url;
+          location.appendChild(scriptTag);
+      };
+      function loadJSON(URL, callback) {   
+
+        var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+        xobj.open('GET', URL, true); // Replace 'my_data' with the path to your file
+        xobj.onreadystatechange = function () {
+              if (xobj.readyState == 4 && xobj.status == "200") {
+                // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                callback(xobj.responseText);
+              }
+        };
+        xobj.send(null);  
+     }
+     function prepareStory(story, prefix) {
+       return Object.assign(story, {
+         resources: Object.keys(story.resources).reduce(function(res, resourceId) {
+            var resource = story.resources[resourceId];
+            var newResource;
+            if (resource.data && resource.data.filePath) {
+              newResource = Object.assign(resource, {
+                data: Object.assign(resource.data, {
+                  src: prefix + resource.data.filePath,
+                  filePath: prefix + resource.data.filePath
+                })
+              })
+            } else newResource = resource;
+            return Object.assign(res, {
+              [resourceId]: newResource
+            })
+         }, {})
+       })
+     }
+      var urlPrefix = window.location.href.split('#')[0];
+      window.__urlPrefix = urlPrefix;
+      /**
+       * Dynamically loading the JSON data
+       */
+      loadJSON(urlPrefix + 'story.json', function(story) {
+        window.__story = prepareStory(JSON.parse(story), urlPrefix);
+        /**
+         * Dynamically loading the html bundle 
+         */
+        var bundleURL = urlPrefix + 'bundle.js';
+        loadJS(bundleURL, document.body);
+      })
+      
+      </script>
+    </body>
+    </html>
+    
